@@ -11,6 +11,11 @@
       "description": "Testez vos connaissances sur l'entraînement des modèles de langage et l'architecture DeepSeek."
     },
     {
+      "module": "loi-1-psychologie",
+      "title": "Loi 1 : Psychologie",
+      "description": "Un quiz interactif pour réviser les concepts fondamentaux de la Loi 1 en psychologie."
+    },
+    {
       "module": "quiz-pdca",
       "title": "Quiz PDCA — Amélioration Continue",
       "description": "Testez vos connaissances sur le cycle PDCA."

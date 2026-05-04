@@ -1,0 +1,273 @@
+{
+  "title": "Loi 1 : Psychologie",
+  "description": "Un quiz interactif pour réviser les concepts fondamentaux de la Loi 1 en psychologie.",
+  "themes": [
+    "Fondamentaux de la Rationalité",
+    "Les Biais Cognitifs",
+    "Mécanismes de l'Irrationalité",
+    "Maîtrise de Soi et Équilibre",
+    "Psychologie Sociale"
+  ],
+  "questions": [
+    {
+      "question": "Selon Robert Greene, quelle est la définition fondamentale de la rationalité ?",
+      "answerOptions": [
+        {
+          "text": "L'élimination totale des émotions pour devenir une machine logique.",
+          "isCorrect": false,
+          "rationale": "L'auteur précise que les émotions et la pensée sont imbriquées et que la rationalité n'est pas le dépassement de l'émotionnel mais son équilibrage."
+        },
+        {
+          "text": "La capacité à enrayer les effets des émotions pour réfléchir au lieu de réagir.",
+          "isCorrect": true,
+          "rationale": "La rationalité est présentée comme un pouvoir cultivé permettant d'ouvrir son esprit à la réalité plutôt qu'à ses seuls ressentis."
+        },
+        {
+          "text": "Une intelligence supérieure innée que possèdent certains leaders comme Périclès.",
+          "isCorrect": false,
+          "rationale": "Le texte affirme explicitement que la rationalité ne vient pas naturellement et doit être apprise par la pratique."
+        },
+        {
+          "text": "Le talent de convaincre les autres de la justesse de ses propres opinions.",
+          "isCorrect": false,
+          "rationale": "Ceci correspond davantage à l'habileté tactique ou au biais de conviction qu'à la véritable rationalité définie par l'auteur."
+        }
+      ],
+      "hint": "Considérez la rationalité comme un frein appliqué aux impulsions immédiates."
+    },
+    {
+      "question": "Pourquoi Périclès vénérait-il la déesse Athéna ?",
+      "answerOptions": [
+        {
+          "text": "Elle représentait une forme de $noûs$ (esprit) éminemment pragmatique et lucide.",
+          "isCorrect": true,
+          "rationale": "Athéna incarnait pour lui l'intelligence pratique capable de calmer l'esprit et de guider vers l'action opportune."
+        },
+        {
+          "text": "Elle était la déesse de la guerre, symbolisant la puissance militaire d'Athènes.",
+          "isCorrect": false,
+          "rationale": "Bien qu'Athènes fût puissante, Périclès cherchait à limiter les guerres et privilégiait la sagesse d'Athéna sur sa force guerrière."
+        },
+        {
+          "text": "Elle symbolisait la supériorité aristocratique de sa propre famille.",
+          "isCorrect": false,
+          "rationale": "Périclès s'est allié aux classes moyennes et inférieures, utilisant la figure d'Athéna pour unifier toute la cité autour de valeurs démocratiques."
+        },
+        {
+          "text": "C'était une stratégie politique pour manipuler les citoyens superstitieux.",
+          "isCorrect": false,
+          "rationale": "L'auteur présente cette vénération comme un idéal personnel de maîtrise de soi et non comme un simple outil de manipulation."
+        }
+      ],
+      "hint": "Le nom de cette déesse associe les concepts de divinité et d'esprit."
+    },
+    {
+      "question": "Lequel de ces biais cognitifs nous pousse à chercher uniquement des données qui soutiennent nos croyances actuelles ?",
+      "answerOptions": [
+        {
+          "text": "Le biais de supériorité",
+          "isCorrect": false,
+          "rationale": "Ce biais concerne plutôt l'illusion de croire que l'on est plus rationnel ou moral que les autres."
+        },
+        {
+          "text": "Le biais d'apparence",
+          "isCorrect": false,
+          "rationale": "Ce biais se concentre sur le fait de juger les gens selon l'image ou le 'masque' qu'ils présentent en société."
+        },
+        {
+          "text": "Le biais de confirmation",
+          "isCorrect": true,
+          "rationale": "Ce biais illustre comment nous filtrons inconsciemment l'information pour ne garder que ce qui nous flatte ou nous rassure."
+        },
+        {
+          "text": "Le biais de conformisme",
+          "isCorrect": false,
+          "rationale": "Ce biais nous pousse à adopter les idées du groupe pour éviter le sentiment d'isolement."
+        }
+      ],
+      "hint": "C'est le fléau des consultants dont les clients ne veulent entendre que ce qu'ils pensent déjà."
+    },
+    {
+      "question": "Quelle est la caractéristique principale de l'irrationalité de « niveau 2 » ?",
+      "answerOptions": [
+        {
+          "text": "Elle est liée aux humeurs légères et changeantes du quotidien.",
+          "isCorrect": false,
+          "rationale": "Ceci décrit l'irrationalité de niveau 1, qui est plus diffuse et continue."
+        },
+        {
+          "text": "Elle survient lors d'une escalade émotionnelle déclenchée par des facteurs extérieurs.",
+          "isCorrect": true,
+          "rationale": "Le niveau 2 se manifeste par un pic d'excitation où l'émotion prend totalement le contrôle du raisonnement."
+        },
+        {
+          "text": "Elle correspond à l'utilisation volontaire des émotions pour tromper autrui.",
+          "isCorrect": false,
+          "rationale": "L'irrationalité est subie par l'individu plutôt que choisie consciemment pour manipuler."
+        },
+        {
+          "text": "Elle ne touche que les personnes ayant une faible éducation.",
+          "isCorrect": false,
+          "rationale": "L'auteur souligne que personne n'est à l'abri, quel que soit son niveau d'instruction ou ses progrès technologiques."
+        }
+      ],
+      "hint": "Pensez à un état de réactivité intense où l'on se sent 'possédé' par son cerveau limbique."
+    },
+    {
+      "question": "Qu'est-ce que l'auteur appelle les « points sensibles hérités de la petite enfance » ?",
+      "answerOptions": [
+        {
+          "text": "Des capacités intellectuelles précoces développées grâce aux parents.",
+          "isCorrect": false,
+          "rationale": "L'expression désigne des vulnérabilités émotionnelles plutôt que des talents cognitifs."
+        },
+        {
+          "text": "Des blessures enfouies qui, une fois activées, provoquent des réactions puériles et excessives.",
+          "isCorrect": true,
+          "rationale": "Ces déclencheurs libèrent des émotions liées au passé, nous faisant réagir à une image déformée du présent."
+        },
+        {
+          "text": "Le désir naturel de protéger les enfants dans des situations de stress.",
+          "isCorrect": false,
+          "rationale": "Le concept traite de la psychologie de l'adulte réactivant son propre vécu d'enfant."
+        },
+        {
+          "text": "Un biais qui nous pousse à préférer les personnes qui nous ressemblent physiquement.",
+          "isCorrect": false,
+          "rationale": "Ceci pourrait s'apparenter au biais d'apparence, mais ne concerne pas les racines émotionnelles de l'enfance."
+        }
+      ],
+      "hint": "Il s'agit de réagir au présent avec l'intensité d'une blessure ancienne."
+    },
+    {
+      "question": "Dans l'analogie du cavalier et du cheval, quel rôle joue le cavalier ?",
+      "answerOptions": [
+        {
+          "text": "Il représente l'énergie brute et les impulsions nécessaires à l'action.",
+          "isCorrect": false,
+          "rationale": "C'est le rôle dévolu au cheval ; le cavalier doit, lui, diriger cette force."
+        },
+        {
+          "text": "Il symbolise la pensée qui guide et canalise l'énergie animale.",
+          "isCorrect": true,
+          "rationale": "Le cavalier utilise l'entraînement pour tenir les rênes et rendre l'énergie du cheval productive."
+        },
+        {
+          "text": "Il représente les contraintes sociales qui nous empêchent d'être nous-mêmes.",
+          "isCorrect": false,
+          "rationale": "L'analogie se concentre sur l'équilibre interne de l'individu entre raison et émotion."
+        },
+        {
+          "text": "Il symbolise l'ego qui cherche à dominer les autres par la force.",
+          "isCorrect": false,
+          "rationale": "Le cavalier est ici l'outil de la rationalité, dont l'un des buts est justement d'éviter les pièges de l'ego."
+        }
+      ],
+      "hint": "Sans lui, le mouvement est sauvage et sans but ; sans sa monture, il est immobile."
+    },
+    {
+      "question": "Pourquoi une victoire ou un gain soudain peut-il être dangereux pour la rationalité ?",
+      "answerOptions": [
+        {
+          "text": "Parce qu'il provoque une libération chimique créant une euphorie addictive et une folie des grandeurs.",
+          "isCorrect": true,
+          "rationale": "Le succès rapide fait oublier le rôle de la chance et l'importance du travail acharné, menant souvent à une chute brutale."
+        },
+        {
+          "text": "Parce qu'il attire immédiatement la jalousie et le sabotage des ennemis.",
+          "isCorrect": false,
+          "rationale": "Bien que possible, le danger souligné ici est interne : c'est l'altération de notre propre jugement."
+        },
+        {
+          "text": "Parce qu'il nous oblige à payer des impôts plus élevés, créant du stress.",
+          "isCorrect": false,
+          "rationale": "Cette explication est triviale par rapport à l'analyse neurologique et comportementale fournie dans le texte."
+        },
+        {
+          "text": "Parce que le cerveau humain est biologiquement programmé pour préférer l'échec.",
+          "isCorrect": false,
+          "rationale": "Le texte indique au contraire que nous sommes programmés pour rechercher le plaisir, ce qui rend les gains soudains si grisants."
+        }
+      ],
+      "hint": "Pensez aux mécanismes de l'addiction et à l'oubli de la réalité du travail."
+    },
+    {
+      "question": "Quelle stratégie l'écrivain Anton Tchekhov utilisait-il pour rester rationnel face aux individus toxiques ?",
+      "answerOptions": [
+        {
+          "text": "Il les confrontait violemment pour purger ses émotions négatives.",
+          "isCorrect": false,
+          "rationale": "L'auteur recommande d'augmenter le temps de réaction et d'éviter les réactions à chaud."
+        },
+        {
+          "text": "Il les ignorait totalement pour ne pas contaminer son esprit.",
+          "isCorrect": false,
+          "rationale": "Tchekhov préférait l'étude active des personnages plutôt que l'évitement passif."
+        },
+        {
+          "text": "Il les étudiait comme un écrivain, cherchant la logique interne de leur comportement.",
+          "isCorrect": true,
+          "rationale": "En se mettant dans leur peau, il transformait la haine en une forme de compréhension ou de pitié thérapeutique."
+        },
+        {
+          "text": "Il utilisait sa formation de médecin pour les diagnostiquer comme des malades mentaux.",
+          "isCorrect": false,
+          "rationale": "Il appliquait sa rigueur médicale à l'observation, mais son but était de comprendre l'animal humain de l'intérieur, pas de le catégoriser froidement."
+        }
+      ],
+      "hint": "Il considérait que chaque individu a une raison d'être ce qu'il est devenu, même si elle est irrationnelle."
+    },
+    {
+      "question": "Qu'implique la stratégie de « considérer les gens comme des faits » ?",
+      "answerOptions": [
+        {
+          "text": "Essayer de les changer pour qu'ils correspondent à nos attentes.",
+          "isCorrect": false,
+          "rationale": "C'est précisément ce que l'auteur déconseille, car cela génère frustration et colère."
+        },
+        {
+          "text": "Les voir comme des phénomènes neutres, comme des plantes ou des comètes.",
+          "isCorrect": true,
+          "rationale": "Cette neutralité permet d'observer les autres objectivement sans projeter nos propres émotions ou jugements."
+        },
+        {
+          "text": "Réduire les relations humaines à de simples échanges de données statistiques.",
+          "isCorrect": false,
+          "rationale": "L'idée est d'accepter la diversité de la nature humaine, pas de déshumaniser les interactions."
+        },
+        {
+          "text": "Ne plus jamais faire confiance à personne pour éviter les déceptions.",
+          "isCorrect": false,
+          "rationale": "L'objectif est la sérénité et l'équilibre, pas le cynisme ou le retrait social."
+        }
+      ],
+      "hint": "Il s'agit d'accepter la réalité humaine telle qu'elle est, sans résistance."
+    },
+    {
+      "question": "Quelle est la première étape recommandée pour développer son « Athéna intérieure » ?",
+      "answerOptions": [
+        {
+          "text": "S'isoler du monde pour ne plus subir d'influences extérieures.",
+          "isCorrect": false,
+          "rationale": "L'isolement peut aider temporairement lors de crises, mais la première tâche est l'auto-observation constante."
+        },
+        {
+          "text": "Apprendre à identifier et observer les biais cognitifs en soi-même.",
+          "isCorrect": true,
+          "rationale": "La prise de conscience de nos propres tendances irrationnelles est le préalable indispensable à tout progrès."
+        },
+        {
+          "text": "Suivre un entraînement militaire pour renforcer sa discipline.",
+          "isCorrect": false,
+          "rationale": "Bien que Périclès ait vécu dans un contexte guerrier, Greene insiste sur la discipline mentale et l'introspection."
+        },
+        {
+          "text": "Lire tous les ouvrages de philosophie grecque antique.",
+          "isCorrect": false,
+          "rationale": "La culture est utile, mais la rationalité s'acquiert par la pratique et l'entraînement psychologique."
+        }
+      ],
+      "hint": "L'ignorance de son propre moi émotionnel est ce qui lui donne son pouvoir."
+    }
+  ]
+}
