@@ -1,24 +1,14 @@
 {
   "quizzes": [
     {
-      "module": "lefebvre-quiz",
-      "title": "Le 5ème Jour",
-      "description": "Testez vos connaissances sur l'expertise et le parcours de Jean-Noël Lefebvre."
-    },
-    {
-      "module": "LLM-quiz",
-      "title": "Comprendre les LLM",
-      "description": "Testez vos connaissances sur l'entraînement des modèles de langage et l'architecture DeepSeek."
-    },
-    {
       "module": "loi-1-psychologie",
       "title": "Loi 1 : Psychologie",
       "description": "Un quiz interactif pour réviser les concepts fondamentaux de la Loi 1 en psychologie."
     },
     {
-      "module": "quiz-pdca",
-      "title": "Quiz PDCA — Amélioration Continue",
-      "description": "Testez vos connaissances sur le cycle PDCA."
+      "module": "loi-2-psychologie",
+      "title": "Loi 2 : Psychologie",
+      "description": "Approfondissez votre compréhension avec la Loi 2 de la nature humaine."
     }
   ]
 }

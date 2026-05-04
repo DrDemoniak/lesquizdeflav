@@ -16,7 +16,7 @@
 - Skills `/new-quiz` et `/deploy` enrichis d'une Étape 0 qui lance `setup.ps1`
 - HOWTO.md et README.md mis à jour pour refléter le nouveau parcours non-tech
 
-**Quiz disponibles :** `lefebvre-quiz`, `LLM-quiz`, `quiz-pdca`, `loi-1-psychologie` (créé le 04/05/2026)
+**Quiz disponibles :** `loi-1-psychologie`, `loi-2-psychologie` (créés le 04/05/2026)
 
 **Prochaines actions prioritaires :**
 1. Tester `setup.ps1` sur une machine vierge (ou simuler un environnement non-tech)
