@@ -1,0 +1,141 @@
+{
+  "title": "Quiz PDCA — Amélioration Continue",
+  "description": "Testez vos connaissances sur le cycle PDCA.",
+  "themes": [
+    "Origines historiques du PDCA",
+    "PDCA appliqué au VibeCoding",
+    "Philosophie Kaizen"
+  ],
+  "questions": [
+    {
+      "question": "Qui est le statisticien américain ayant popularisé le cycle PDCA, notamment grâce à son influence sur l'industrie japonaise ?",
+      "answerOptions": [
+        {
+          "text": "W. Edwards Deming",
+          "isCorrect": true,
+          "rationale": "Bien que le concept trouve ses racines chez Shewhart, ce consultant a systématisé et diffusé la méthode au Japon après la guerre."
+        },
+        {
+          "text": "Taiichi Ohno",
+          "isCorrect": false,
+          "rationale": "Il est lié au système de production Toyota, mais le texte attribue spécifiquement la popularisation du PDCA à un consultant américain."
+        },
+        {
+          "text": "Walter A. Shewhart",
+          "isCorrect": false,
+          "rationale": "Il est considéré comme le pionnier ayant posé les bases théoriques dans les années 1930, mais n'est pas celui qui a popularisé le cycle sous sa forme finale."
+        },
+        {
+          "text": "Joseph Juran",
+          "isCorrect": false,
+          "rationale": "Bien que figure majeure de la qualité, il n'est pas cité dans le document comme étant à l'origine de la popularisation de la 'roue' de Deming."
+        }
+      ],
+      "hint": "Son nom est souvent utilisé pour désigner la 'roue' symbolisant l'amélioration continue."
+    },
+    {
+      "question": "Dans le contexte du VibeCoding, quelle action est indispensable au début de la phase PLAN pour chaque nouvelle fonctionnalité ?",
+      "answerOptions": [
+        {
+          "text": "Mettre à jour l'ensemble de la documentation technique",
+          "isCorrect": false,
+          "rationale": "Si la documentation est utile, l'exigence critique mentionnée est le cloisonnement de la session de travail pour la cohérence du code."
+        },
+        {
+          "text": "Automatiser tous les tests unitaires",
+          "isCorrect": false,
+          "rationale": "Le document précise que l'automatisation est optionnelle et dépend du contexte du projet, contrairement au choix de la session de chat."
+        },
+        {
+          "text": "Ouvrir une nouvelle session de chat avec l'IA",
+          "isCorrect": true,
+          "rationale": "Démarrer sur un contexte vierge garantit que l'IA ne sera pas influencée par des discussions ou du code provenant d'anciennes fonctionnalités."
+        },
+        {
+          "text": "Réaliser une veille technologique complète",
+          "isCorrect": false,
+          "rationale": "Cette phase de recherche intervient en amont du cycle PDCA proprement dit et non au début de la phase PLAN de la fonctionnalité."
+        }
+      ],
+      "hint": "Il s'agit d'une mesure préventive pour éviter la 'contamination' du contexte de l'agent de codage."
+    },
+    {
+      "question": "Que signifie l'étape CHECK (Vérifier) dans le cycle appliqué au développement assisté par IA ?",
+      "answerOptions": [
+        {
+          "text": "Fusionner le code dans la branche principale",
+          "isCorrect": false,
+          "rationale": "L'intégration définitive ou le 'merge' n'intervient qu'après la validation, lors de la phase ACT."
+        },
+        {
+          "text": "Rédiger le prompt structuré pour l'IA",
+          "isCorrect": false,
+          "rationale": "La rédaction du prompt est une activité qui appartient à la phase DO, servant à l'exécution de la tâche planifiée."
+        },
+        {
+          "text": "Valider les critères d'acceptation et s'assurer de l'absence de régressions",
+          "isCorrect": true,
+          "rationale": "Cette phase vérifie que la fonctionnalité répond aux attentes et que l'IA n'a pas introduit d'effets de bord indésirables dans l'existant."
+        },
+        {
+          "text": "Définir les patterns architecturaux à suivre",
+          "isCorrect": false,
+          "rationale": "La définition des normes techniques et des patterns est une tâche préparatoire réalisée durant la phase PLAN."
+        }
+      ],
+      "hint": "Cette étape comporte deux volets : la conformité de la nouvelle feature et la stabilité du reste de l'application."
+    },
+    {
+      "question": "Lors de la phase ACT, quelle est la procédure recommandée si une erreur majeure d'architecture est détectée ?",
+      "answerOptions": [
+        {
+          "text": "Ajuster simplement le prompt dans la même session de chat",
+          "isCorrect": false,
+          "rationale": "Cette approche est réservée aux problèmes mineurs ou superficiels, car elle ne règle pas les incompréhensions structurelles."
+        },
+        {
+          "text": "Retourner à la phase PLAN pour réajuster la conception",
+          "isCorrect": true,
+          "rationale": "Les problèmes fondamentaux nécessitent une replanification complète et une nouvelle session de chat pour repartir sur des bases saines."
+        },
+        {
+          "text": "Ignorer le problème si les tests de base passent",
+          "isCorrect": false,
+          "rationale": "Le principe du PDCA repose sur l'apprentissage par l'erreur et la recherche d'un niveau de qualité supérieur, rendant l'omission inacceptable."
+        },
+        {
+          "text": "Passer immédiatement à la fonctionnalité suivante",
+          "isCorrect": false,
+          "rationale": "Chaque cycle doit être bouclé et la fonctionnalité validée avant de pouvoir entamer la suite du projet."
+        }
+      ],
+      "hint": "Un simple correctif de texte ne suffit pas quand la compréhension de base de la feature est erronée."
+    },
+    {
+      "question": "Quel terme japonais est utilisé dans le document pour décrire la philosophie d'amélioration continue par petits pas ?",
+      "answerOptions": [
+        {
+          "text": "Kanban",
+          "isCorrect": false,
+          "rationale": "Bien qu'issu de la même culture de gestion, ce terme désigne un système visuel de gestion des flux de travail, non mentionné ici."
+        },
+        {
+          "text": "Muda",
+          "isCorrect": false,
+          "rationale": "Ce terme désigne les gaspillages dans les processus, tandis que le document se concentre sur la progression continue."
+        },
+        {
+          "text": "Kaizen",
+          "isCorrect": true,
+          "rationale": "Cette philosophie valorise les améliorations régulières et systématiques plutôt que des changements brutaux et isolés."
+        },
+        {
+          "text": "Poka-Yoke",
+          "isCorrect": false,
+          "rationale": "Il s'agit de dispositifs anti-erreurs, concept différent de la boucle d'itération PDCA décrite."
+        }
+      ],
+      "hint": "Ce mot évoque l'idée que de petits changements réguliers produisent des résultats durables."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "quizzes": [
+    {
+      "module": "lefebvre-quiz",
+      "title": "Le 5ème Jour",
+      "description": "Testez vos connaissances sur l'expertise et le parcours de Jean-Noël Lefebvre."
+    },
+    {
+      "module": "LLM-quiz",
+      "title": "Comprendre les LLM",
+      "description": "Testez vos connaissances sur l'entraînement des modèles de langage et l'architecture DeepSeek."
+    },
+    {
+      "module": "quiz-pdca",
+      "title": "Quiz PDCA — Amélioration Continue",
+      "description": "Testez vos connaissances sur le cycle PDCA."
+    }
+  ]
+}
