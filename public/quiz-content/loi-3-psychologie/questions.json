@@ -1,0 +1,663 @@
+{
+  "title": "Loi 3 : Maîtriser l'Art de l'Observation",
+  "description": "Apprenez à voir au-delà du masque social et à décrypter les signaux non verbaux qui trahissent les véritables intentions.",
+  "themes": [
+    "Le Masque Social & Persona",
+    "Communication Non Verbale",
+    "Observation & Méthode Erickson",
+    "Décryptage des Émotions",
+    "Jeux de Pouvoir & Dominance"
+  ],
+  "questions": [
+    {
+      "question": "Selon le texte, quel est l'objectif principal du « masque » que les individus portent en société ?",
+      "answerOptions": [
+        {
+          "text": "Se montrer sous leur jour le plus favorable.",
+          "isCorrect": true,
+          "rationale": "Le texte indique que les individus utilisent ce masque pour projeter des qualités comme l'humilité et le zèle afin d'être bien perçus."
+        },
+        {
+          "text": "Dissimuler une intention criminelle systématique.",
+          "isCorrect": false,
+          "rationale": "Bien que certains cachent des intentions hostiles, le masque est présenté comme un outil social général et non exclusivement criminel."
+        },
+        {
+          "text": "Se protéger contre les maladies contagieuses.",
+          "isCorrect": false,
+          "rationale": "Le terme est utilisé de manière métaphorique pour désigner une façade psychologique et sociale."
+        },
+        {
+          "text": "Éviter tout contact visuel avec les supérieurs.",
+          "isCorrect": false,
+          "rationale": "Le masque vise au contraire à simuler l'intérêt et l'engagement lors des interactions sociales."
+        }
+      ],
+      "hint": "Considérez comment la plupart des gens souhaitent être perçus par les autres lors d'une première rencontre."
+    },
+    {
+      "question": "Quelle était la seule partie du corps que Milton Erickson pouvait bouger après sa paralysie totale ?",
+      "answerOptions": [
+        {
+          "text": "Ses mains.",
+          "isCorrect": false,
+          "rationale": "Sa paralysie était initialement si étendue qu'il ne pouvait faire aucun geste manuel."
+        },
+        {
+          "text": "Ses globes oculaires.",
+          "isCorrect": true,
+          "rationale": "Le texte précise que ses yeux étaient le seul moyen de balayer sa chambre et d'observer son environnement."
+        },
+        {
+          "text": "Ses orteils.",
+          "isCorrect": false,
+          "rationale": "Le mouvement dans les jambes n'est revenu que bien plus tard grâce à un effort de volonté et d'imagination."
+        },
+        {
+          "text": "Ses lèvres.",
+          "isCorrect": false,
+          "rationale": "Ses lèvres étaient initialement paralysées, l'empêchant de communiquer verbalement au début de sa convalescence."
+        }
+      ],
+      "hint": "Il s'agit de l'organe sensoriel qui lui a permis de devenir un observateur hors pair."
+    },
+    {
+      "question": "Quel pourcentage de la communication humaine est estimé être non verbal ?",
+      "answerOptions": [
+        {
+          "text": "Environ 5 %.",
+          "isCorrect": false,
+          "rationale": "Il s'agit du pourcentage d'informations non verbales que les individus perçoivent consciemment, et non de la proportion totale."
+        },
+        {
+          "text": "Environ 35 %.",
+          "isCorrect": false,
+          "rationale": "C'est une estimation trop basse par rapport aux données fournies dans l'ouvrage."
+        },
+        {
+          "text": "Environ 65 %.",
+          "isCorrect": true,
+          "rationale": "Le texte affirme que la majeure partie de notre communication passe par des signaux non verbaux plutôt que par les mots."
+        },
+        {
+          "text": "Environ 95 %.",
+          "isCorrect": false,
+          "rationale": "Bien que prédominante, la communication n'est pas quasi exclusivement non verbale selon les chiffres du texte."
+        }
+      ],
+      "hint": "Ce chiffre représente un peu moins des deux tiers de l'ensemble des échanges."
+    },
+    {
+      "question": "Quelle découverte Erickson a-t-il faite en observant ses sœurs discuter entre elles ?",
+      "answerOptions": [
+        {
+          "text": "Elles parlaient une langue étrangère secrète.",
+          "isCorrect": false,
+          "rationale": "Rien dans le texte ne suggère l'utilisation d'un code linguistique particulier."
+        },
+        {
+          "text": "Leurs mots et leur langage corporel étaient souvent en contradiction.",
+          "isCorrect": true,
+          "rationale": "Il a remarqué qu'un « oui » verbal pouvait être accompagné d'un rictus ou d'un ton suggérant un « non »."
+        },
+        {
+          "text": "Leur respiration était parfaitement synchrone en tout temps.",
+          "isCorrect": false,
+          "rationale": "S'il a observé la respiration, il a surtout noté qu'elle révélait des émotions individuelles comme l'ennui."
+        },
+        {
+          "text": "Elles étaient incapables de ressentir de la jalousie.",
+          "isCorrect": false,
+          "rationale": "Au contraire, son observation lui a permis de détecter leurs sentiments d'envie dissimulés."
+        }
+      ],
+      "hint": "Cherchez l'écart possible entre ce qui est dit et ce qui est exprimé physiquement."
+    },
+    {
+      "question": "Pourquoi Erickson a-t-il placé son bureau au fond de sa pièce de consultation ?",
+      "answerOptions": [
+        {
+          "text": "Pour maintenir une distance de sécurité avec les patients violents.",
+          "isCorrect": false,
+          "rationale": "La sécurité n'était pas la raison invoquée pour cette disposition spatiale."
+        },
+        {
+          "text": "Pour pouvoir observer la démarche des patients sur une certaine distance.",
+          "isCorrect": true,
+          "rationale": "La marche fournissait à Erickson des indices précieux sur l'humeur et la confiance du patient avant même le début de l'entretien."
+        },
+        {
+          "text": "Pour profiter d'une meilleure lumière naturelle venant de la fenêtre.",
+          "isCorrect": false,
+          "rationale": "Le texte se concentre sur l'utilité clinique de l'observation plutôt que sur le confort visuel."
+        },
+        {
+          "text": "Parce qu'il ne supportait pas d'être proche des gens.",
+          "isCorrect": false,
+          "rationale": "Erickson cherchait à créer une connexion profonde, pas à s'isoler par aversion."
+        }
+      ],
+      "hint": "Pensez à ce que le mouvement du corps entier peut révéler sur la personnalité d'une personne."
+    },
+    {
+      "question": "Comment Erickson a-t-il identifié que son patient était un homme déguisé en femme ?",
+      "answerOptions": [
+        {
+          "text": "En analysant les traces de maquillage sur son col.",
+          "isCorrect": false,
+          "rationale": "Le texte ne mentionne pas de défaut dans le maquillage ou l'apparence cosmétique."
+        },
+        {
+          "text": "En observant sa manière de retirer des peluches sur sa manche.",
+          "isCorrect": true,
+          "rationale": "L'homme ne contournait pas la zone des seins comme le font naturellement les femmes, trahissant son anatomie réelle."
+        },
+        {
+          "text": "En remarquant la taille inhabituelle de ses mains.",
+          "isCorrect": false,
+          "rationale": "Bien que les mains puissent donner des indices, c'est un geste spécifique de mouvement qui a été décisif."
+        },
+        {
+          "text": "Grâce à une erreur de grammaire dans son discours.",
+          "isCorrect": false,
+          "rationale": "C'est le langage corporel et non une faute de langue qui a révélé la vérité, bien que le débit vocal ait aidé."
+        }
+      ],
+      "hint": "Il s'agit d'un geste machinal lié à la présence ou à l'absence de certains attributs physiques féminins."
+    },
+    {
+      "question": "Qu'est-ce que « l'erreur d'Othello » dans le décryptage du langage corporel ?",
+      "answerOptions": [
+        {
+          "text": "Confondre la nervosité d'une personne avec un signe de culpabilité.",
+          "isCorrect": true,
+          "rationale": "Comme Othello avec Desdémone, on peut attribuer une émotion (la peur) à la mauvaise cause (la trahison)."
+        },
+        {
+          "text": "Oublier de regarder le visage de son interlocuteur.",
+          "isCorrect": false,
+          "rationale": "Cette erreur concerne l'interprétation d'un signal perçu, pas l'absence d'observation."
+        },
+        {
+          "text": "Croire que tout le monde est naturellement honnête.",
+          "isCorrect": false,
+          "rationale": "L'erreur d'Othello est liée à une suspicion mal placée basée sur un stress réel mais mal interprété."
+        },
+        {
+          "text": "Imiter les gestes d'un menteur sans s'en rendre compte.",
+          "isCorrect": false,
+          "rationale": "L'imitation est une technique d'empathie, pas l'erreur de jugement décrite par ce concept."
+        }
+      ],
+      "hint": "Pensez à une situation où une personne innocente pourrait paraître anxieuse sous la pression."
+    },
+    {
+      "question": "Quelle est la durée approximative d'une « micro-expression » ?",
+      "answerOptions": [
+        {
+          "text": "Plusieurs secondes.",
+          "isCorrect": false,
+          "rationale": "Les expressions qui durent plusieurs secondes sont généralement volontaires ou stabilisées."
+        },
+        {
+          "text": "Moins d'une seconde.",
+          "isCorrect": true,
+          "rationale": "Ces expressions sont ultra-rapides et apparaissent lorsque quelqu'un tente de réprimer une émotion forte."
+        },
+        {
+          "text": "Une minute entière.",
+          "isCorrect": false,
+          "rationale": "Une émotion affichée pendant une minute serait impossible à manquer et ne serait pas qualifiée de 'micro'."
+        },
+        {
+          "text": "Elle est imperceptible à l'œil nu.",
+          "isCorrect": false,
+          "rationale": "Bien que rapide, elle est détectable par un observateur attentif et entraîné."
+        }
+      ],
+      "hint": "C'est un éclair émotionnel presque instantané."
+    },
+    {
+      "question": "Lequel de ces signes indique généralement un sourire authentique (sourire de Duchenne) ?",
+      "answerOptions": [
+        {
+          "text": "L'immobilité totale des yeux.",
+          "isCorrect": false,
+          "rationale": "Un sourire qui ne mobilise pas les yeux est souvent considéré comme forcé ou poli."
+        },
+        {
+          "text": "La contraction des muscles autour des yeux (pattes d'oie).",
+          "isCorrect": true,
+          "rationale": "Un vrai sourire sollicite les muscles oculaires et fait remonter les pommettes."
+        },
+        {
+          "text": "Une lèvre supérieure qui reste droite.",
+          "isCorrect": false,
+          "rationale": "La forme des lèvres change radicalement dans un sourire sincère."
+        },
+        {
+          "text": "Un délai de plusieurs secondes après une plaisanterie.",
+          "isCorrect": false,
+          "rationale": "Le sourire authentique est une réponse spontanée et immédiate."
+        }
+      ],
+      "hint": "Regardez au-delà de la bouche pour trouver la sincérité du visage."
+    },
+    {
+      "question": "Selon le texte, quel comportement est typique d'un individu en position de dominance ?",
+      "answerOptions": [
+        {
+          "text": "Sourire fréquemment pour plaire au groupe.",
+          "isCorrect": false,
+          "rationale": "Le texte précise que les dominants ont tendance à moins sourire, car le sourire constant peut trahir une insécurité."
+        },
+        {
+          "text": "Se toucher souvent le visage pour s'apaiser.",
+          "isCorrect": false,
+          "rationale": "L'auto-contact est un comportement d'apaisement lié à l'anxiété, pas à la domination."
+        },
+        {
+          "text": "S'octroyer plus d'espace physique et établir un contact visuel libre.",
+          "isCorrect": true,
+          "rationale": "Les individus puissants se sentent autorisés à occuper l'espace et à regarder les autres ostensiblement."
+        },
+        {
+          "text": "Parler très lentement avec de longues hésitations.",
+          "isCorrect": false,
+          "rationale": "L'hésitation vocale est un signe d'insécurité ou de menace perçue sur son propre pouvoir."
+        }
+      ],
+      "hint": "Considérez le rapport à l'espace et à l'assurance visuelle."
+    },
+    {
+      "question": "Comment Angela Merkel a-t-elle affirmé sa supériorité face à l'intimidation de Vladimir Poutine ?",
+      "answerOptions": [
+        {
+          "text": "En quittant immédiatement la pièce.",
+          "isCorrect": false,
+          "rationale": "Partir aurait été un signe de défaite face à la provocation."
+        },
+        {
+          "text": "En criant pour masquer sa peur des chiens.",
+          "isCorrect": false,
+          "rationale": "Elle est restée calme et a évité les éclats de voix agressifs."
+        },
+        {
+          "text": "En restant calme et en le regardant droit dans les yeux.",
+          "isCorrect": true,
+          "rationale": "En se ressaisissant rapidement, elle a montré que sa peur ne lui faisait pas perdre le contrôle."
+        },
+        {
+          "text": "En menaçant de rompre les relations diplomatiques.",
+          "isCorrect": false,
+          "rationale": "Sa réponse a été non verbale et basée sur sa posture plutôt que sur des menaces verbales."
+        }
+      ],
+      "hint": "Elle a utilisé la maîtrise de soi comme outil de pouvoir."
+    },
+    {
+      "question": "Quel signal non verbal Nicholas Sarkozy manifestait-il alors qu'il essayait de dominer une réunion ?",
+      "answerOptions": [
+        {
+          "text": "Un tremblement des mains incontrôlable.",
+          "isCorrect": false,
+          "rationale": "Ses mains n'étaient pas le foyer de tension remarqué par Merkel."
+        },
+        {
+          "text": "Une agitation nerveuse des pieds.",
+          "isCorrect": true,
+          "rationale": "Cette fuite d'anxiété contrastait avec ses tentatives de domination par les gestes et la voix."
+        },
+        {
+          "text": "Un clignement d'yeux excessif.",
+          "isCorrect": false,
+          "rationale": "Bien que ce soit un signe de stress, le texte mentionne spécifiquement le mouvement de ses pieds."
+        },
+        {
+          "text": "Un mutisme complet.",
+          "isCorrect": false,
+          "rationale": "Sarkozy est décrit comme quelqu'un qui parle beaucoup et interrompt souvent."
+        }
+      ],
+      "hint": "Cherchez une partie du corps souvent ignorée par celui qui essaie de contrôler son visage."
+    },
+    {
+      "question": "Pourquoi les « experts de l'escroquerie » adoptent-ils parfois une apparence ennuyeuse et sérieuse ?",
+      "answerOptions": [
+        {
+          "text": "Parce qu'ils ne savent pas jouer la comédie.",
+          "isCorrect": false,
+          "rationale": "Au contraire, c'est un choix délibéré pour paraître crédible."
+        },
+        {
+          "text": "Pour endormir la vigilance en paraissant inoffensifs et professionnels.",
+          "isCorrect": true,
+          "rationale": "L'aspect administratif ou technique (comme Madoff ou Lustig) détourne le soupçon de malveillance."
+        },
+        {
+          "text": "Parce que la loi les oblige à porter un costume.",
+          "isCorrect": false,
+          "rationale": "L'apparence est un outil de manipulation, pas une contrainte légale."
+        },
+        {
+          "text": "Pour attirer les personnes qui aiment les chiffres.",
+          "isCorrect": false,
+          "rationale": "C'est une stratégie plus large visant à projeter une autorité compétente et stable."
+        }
+      ],
+      "hint": "Pensez à la manière dont une personne très banale peut éviter d'éveiller les soupçons."
+    },
+    {
+      "question": "Quelle est la technique de l'inspecteur Columbo citée dans le texte pour démasquer un menteur ?",
+      "answerOptions": [
+        {
+          "text": "Utiliser la violence physique lors de l'interrogatoire.",
+          "isCorrect": false,
+          "rationale": "Columbo est connu pour sa douceur et sa politesse feinte."
+        },
+        {
+          "text": "Paraître inoffensif puis poser une question embarrassante à l'improviste.",
+          "isCorrect": true,
+          "rationale": "Cette surprise permet d'observer la réaction physique authentique du suspect avant qu'il ne reprenne son masque."
+        },
+        {
+          "text": "Montrer des preuves scientifiques irréfutables dès le début.",
+          "isCorrect": false,
+          "rationale": "Il préfère souvent amener le suspect à se trahir par ses propres réactions."
+        },
+        {
+          "text": "Refuser de parler pour forcer le suspect à se confesser.",
+          "isCorrect": false,
+          "rationale": "Columbo utilise le dialogue constant pour fatiguer et piéger ses interlocuteurs."
+        }
+      ],
+      "hint": "C'est une méthode basée sur le contraste entre une attitude humble et une interrogation soudaine."
+    },
+    {
+      "question": "Dans quel but Auguste, le premier empereur romain, utilisait-il Marc Antoine comme « méchant » ?",
+      "answerOptions": [
+        {
+          "text": "Pour justifier l'augmentation des impôts.",
+          "isCorrect": false,
+          "rationale": "L'enjeu était la définition de son image publique et non une simple question fiscale."
+        },
+        {
+          "text": "Pour souligner par contraste sa propre incarnation des valeurs romaines.",
+          "isCorrect": true,
+          "rationale": "En critiquant le luxe de Marc Antoine, Auguste se présentait comme l'humble défenseur de la tradition."
+        },
+        {
+          "text": "Pour s'emparer de la reine Cléopâtre.",
+          "isCorrect": false,
+          "rationale": "Ses motivations étaient politiques et liées au pouvoir suprême à Rome."
+        },
+        {
+          "text": "Parce qu'il détestait sincèrement la culture égyptienne.",
+          "isCorrect": false,
+          "rationale": "Le texte suggère que c'était une mise en scène calculée plus qu'une haine personnelle."
+        }
+      ],
+      "hint": "Pensez à l'utilité d'avoir un rival qui semble trahir les coutumes de son propre peuple."
+    },
+    {
+      "question": "Que signifie l'origine latine du mot « personnalité » (*persona*) ?",
+      "answerOptions": [
+        {
+          "text": "L'âme.",
+          "isCorrect": false,
+          "rationale": "La personnalité n'est pas étymologiquement liée à l'esprit ou à l'âme dans ce contexte."
+        },
+        {
+          "text": "Le masque.",
+          "isCorrect": true,
+          "rationale": "Ce terme renvoie aux masques portés par les acteurs de théâtre dans l'Antiquité."
+        },
+        {
+          "text": "La vérité.",
+          "isCorrect": false,
+          "rationale": "L'étymologie suggère au contraire une construction ou une façade."
+        },
+        {
+          "text": "Le sang.",
+          "isCorrect": false,
+          "rationale": "Il n'y a pas de lien avec les fluides corporels ou l'hérédité biologique dans ce terme."
+        }
+      ],
+      "hint": "C'est un accessoire utilisé sur scène pour incarner un rôle."
+    },
+    {
+      "question": "Selon la « Méthode » de Stanislavski appliquée à la vie sociale, comment peut-on exprimer une émotion convaincante ?",
+      "answerOptions": [
+        {
+          "text": "En se forçant à ne rien ressentir du tout.",
+          "isCorrect": false,
+          "rationale": "L'absence d'émotion produit un visage inexpressif, pas une émotion convaincante."
+        },
+        {
+          "text": "En se remémorant une expérience réelle qui suscite cette émotion.",
+          "isCorrect": true,
+          "rationale": "En revivant intérieurement le sentiment, le corps et le visage s'animent de manière naturelle."
+        },
+        {
+          "text": "En lisant un manuel sur les muscles faciaux.",
+          "isCorrect": false,
+          "rationale": "La technique Stanislavski repose sur le ressenti intérieur plutôt que sur une mécanique purement externe."
+        },
+        {
+          "text": "En imitant exactement les gestes de son interlocuteur.",
+          "isCorrect": false,
+          "rationale": "C'est l'effet miroir, utile pour la connexion, mais différent de la production d'émotions propres à la Méthode."
+        }
+      ],
+      "hint": "L'authenticité de l'expression vient de la mémoire émotionnelle."
+    },
+    {
+      "question": "Pourquoi est-il conseillé de donner une première impression « neutre » lors d'une rencontre ?",
+      "answerOptions": [
+        {
+          "text": "Pour paraître mystérieux et dangereux.",
+          "isCorrect": false,
+          "rationale": "L'objectif est d'être bien perçu, pas de susciter la crainte immédiate."
+        },
+        {
+          "text": "Pour éviter de projeter une insécurité par un excès d'enthousiasme.",
+          "isCorrect": true,
+          "rationale": "Une personne trop empressée peut paraître suspecte ou manquer de confiance en elle."
+        },
+        {
+          "text": "Parce que les gens oublient les premières impressions.",
+          "isCorrect": false,
+          "rationale": "Le texte souligne au contraire que les humains se fient énormément à leur premier jugement."
+        },
+        {
+          "text": "Pour cacher totalement sa personnalité réelle.",
+          "isCorrect": false,
+          "rationale": "Il s'agit de modérer les signaux pour ne pas rebuter l'autre, pas de disparaître."
+        }
+      ],
+      "hint": "Trop en faire au début peut être perçu comme un signe de faiblesse ou de manipulation."
+    },
+    {
+      "question": "Quelle est la règle d'or d'Erickson pour maîtriser le décryptage humain ?",
+      "answerOptions": [
+        {
+          "text": "Écoute, écoute, écoute.",
+          "isCorrect": false,
+          "rationale": "Bien que l'écoute soit importante, il mettait l'accent sur le canal visuel."
+        },
+        {
+          "text": "Observe, observe, observe.",
+          "isCorrect": true,
+          "rationale": "C'était sa devise pour encourager l'attention constante aux détails physiques invisibles pour les autres."
+        },
+        {
+          "text": "Parle, parle, parle.",
+          "isCorrect": false,
+          "rationale": "Erickson préférait faire parler les autres pour mieux les étudier."
+        },
+        {
+          "text": "Juge, juge, juge.",
+          "isCorrect": false,
+          "rationale": "Il recommandait de suspendre le jugement verbal pour ressentir physiquement l'autre."
+        }
+      ],
+      "hint": "C'est une injonction à utiliser ses yeux de manière répétitive et minutieuse."
+    },
+    {
+      "question": "Comment le texte définit-il le caractère d'un individu dans l'introduction de la loi 4 ?",
+      "answerOptions": [
+        {
+          "text": "Une construction purement génétique et immuable.",
+          "isCorrect": false,
+          "rationale": "Il mentionne qu'il se forge aussi par les habitudes et dès la petite enfance."
+        },
+        {
+          "text": "Ce qui oblige une personne à répéter certains schémas de comportement.",
+          "isCorrect": true,
+          "rationale": "Le caractère est vu comme une force compulsive qui pousse à la répétition d'actions."
+        },
+        {
+          "text": "Une réputation superficielle donnée par les médias.",
+          "isCorrect": false,
+          "rationale": "Le texte avertit justement de ne pas se laisser hypnotiser par la réputation pour sonder le caractère réel."
+        },
+        {
+          "text": "La capacité à porter le masque le plus élégant.",
+          "isCorrect": false,
+          "rationale": "Le masque est lié à la persona (Loi 3), tandis que le caractère est une structure plus profonde (Loi 4)."
+        }
+      ],
+      "hint": "Pensez à la notion de régularité et de prévisibilité dans les actions d'une personne."
+    },
+    {
+      "question": "Que révèle une dilatation des pupilles chez un interlocuteur ?",
+      "answerOptions": [
+        {
+          "text": "Une douleur physique intense.",
+          "isCorrect": false,
+          "rationale": "Bien que possible médicalement, le texte traite de ce signal comme un indice d'émotion positive."
+        },
+        {
+          "text": "Un sentiment de bien-être et une attirance.",
+          "isCorrect": true,
+          "rationale": "C'est une réponse automatique du système nerveux qui laisse entrer plus de lumière quand on apprécie ce que l'on voit."
+        },
+        {
+          "text": "Une tentative de tromperie imminente.",
+          "isCorrect": false,
+          "rationale": "La tromperie est souvent associée à des tensions musculaires plutôt qu'à cette réponse involontaire d'ouverture."
+        },
+        {
+          "text": "Un profond ennui.",
+          "isCorrect": false,
+          "rationale": "L'ennui se traduit plutôt par une perte de focus visuel et une respiration plus lente."
+        }
+      ],
+      "hint": "C'est une réaction biologique liée au plaisir visuel."
+    },
+    {
+      "question": "Quel signal vocal indique souvent une connexion émotionnelle sincère ?",
+      "answerOptions": [
+        {
+          "text": "Une voix monocorde et très basse.",
+          "isCorrect": false,
+          "rationale": "Une voix monotone indique souvent l'ennui ou une tentative de masquer ses émotions."
+        },
+        {
+          "text": "Une montée du ton de la voix, chaleureuse et naturelle.",
+          "isCorrect": true,
+          "rationale": "Le texte parle de « sourire vocal » lorsque l'interlocuteur est engagé et enthousiaste."
+        },
+        {
+          "text": "Un débit de parole extrêmement lent avec des pauses calculées.",
+          "isCorrect": false,
+          "rationale": "Cela peut indiquer une réflexion stratégique ou une hésitation, pas forcément une connexion."
+        },
+        {
+          "text": "Des cris de joie systématiques.",
+          "isCorrect": false,
+          "rationale": "La sincérité réside dans les nuances du ton, pas dans l'exagération sonore."
+        }
+      ],
+      "hint": "Considérez les variations de hauteur qui traduisent l'enthousiasme."
+    },
+    {
+      "question": "Pourquoi est-il important de connaître le « comportement de base » (*baseline*) d'une personne ?",
+      "answerOptions": [
+        {
+          "text": "Pour pouvoir imiter parfaitement ses vêtements.",
+          "isCorrect": false,
+          "rationale": "L'imitation vestimentaire ne nécessite pas une étude comportementale longue."
+        },
+        {
+          "text": "Pour détecter les moindres changements de comportement comme signes de stress.",
+          "isCorrect": true,
+          "rationale": "Sans savoir comment quelqu'un agit normalement, on ne peut pas savoir si sa nervosité actuelle est inhabituelle."
+        },
+        {
+          "text": "Pour s'assurer qu'elle a reçu une bonne éducation.",
+          "isCorrect": false,
+          "rationale": "L'observation vise l'état psychologique actuel, pas un jugement moral sur le passé."
+        },
+        {
+          "text": "Pour savoir si elle est riche ou pauvre.",
+          "isCorrect": false,
+          "rationale": "Le statut social est une information différente du comportement de base psychologique."
+        }
+      ],
+      "hint": "C'est un point de référence nécessaire pour mesurer tout écart ultérieur."
+    },
+    {
+      "question": "Lequel de ces comportements est un signe de « soumission » ou d'insécurité selon le texte ?",
+      "answerOptions": [
+        {
+          "text": "Donner des tapes amicales dans le dos.",
+          "isCorrect": false,
+          "rationale": "Le contact tactile initié est souvent un signe de dominance."
+        },
+        {
+          "text": "Se toucher le front ou le cou (auto-apaisement).",
+          "isCorrect": true,
+          "rationale": "Ces gestes servent à calmer une anxiété intérieure et sont typiques d'une position de défense."
+        },
+        {
+          "text": "Interrompre fréquemment les autres.",
+          "isCorrect": false,
+          "rationale": "L'interruption est une tentative d'affirmation et de contrôle de la conversation."
+        },
+        {
+          "text": "Garder la tête haute en marchant.",
+          "isCorrect": true,
+          "rationale": "Cela traduit la confiance et l'assurance, pas la soumission."
+        }
+      ],
+      "hint": "Considérez les gestes que l'on fait sur soi-même pour se rassurer."
+    },
+    {
+      "question": "Que recommande le texte pour tester la jalousie cachée d'une personne ?",
+      "answerOptions": [
+        {
+          "text": "Lui demander de l'argent.",
+          "isCorrect": false,
+          "rationale": "Le prêt d'argent teste la générosité ou la confiance, pas spécifiquement la jalousie."
+        },
+        {
+          "text": "Lui annoncer une bonne nouvelle personnelle sans se vanter.",
+          "isCorrect": true,
+          "rationale": "L'observateur doit guetter les micro-expressions de déception qui pourraient apparaître malgré les félicitations verbales."
+        },
+        {
+          "text": "L'ignorer pendant plusieurs jours.",
+          "isCorrect": false,
+          "rationale": "L'ignorance provoque de la colère ou de la tristesse, mais ne révèle pas l'envie secrète."
+        },
+        {
+          "text": "Lui confier un secret embarrassant.",
+          "isCorrect": false,
+          "rationale": "Confier un secret teste la loyauté, pas la jalousie."
+        }
+      ],
+      "hint": "Regardez la réaction immédiate face au succès d'autrui."
+    }
+  ]
+}

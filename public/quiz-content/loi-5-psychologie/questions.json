@@ -1,0 +1,689 @@
+{
+  "title": "Loi 5 : Devenir un Objet de Désir",
+  "description": "Maîtrisez la psychologie de la convoitise en jouant sur l'absence et le mystère pour augmenter votre valeur perçue.",
+  "themes": [
+    "La Loi de la Convoitise",
+    "Psychologie du Désir & Absence",
+    "Étude de Cas : Coco Chanel",
+    "Neurologie & Contrastes",
+    "Stratégies de Rareté & Valeur"
+  ],
+  "questions": [
+    {
+      "question": "Quelle était la profession du père de Gabrielle Chanel, qui fuyait toute responsabilité ?",
+      "answerOptions": [
+        {
+          "text": "Un colporteur",
+          "isCorrect": true,
+          "rationale": "Le texte indique explicitement que son père était un marchand ambulant qui détestait les attaches familiales."
+        },
+        {
+          "text": "Un militaire de carrière",
+          "isCorrect": false,
+          "rationale": "Cette option suggère une discipline qui contredit le caractère instable et fuyant du père décrit dans le récit."
+        },
+        {
+          "text": "Un tailleur de pierre",
+          "isCorrect": false,
+          "rationale": "Bien que ce métier soit modeste, il implique une sédentarité que le père de Chanel refusait catégoriquement."
+        },
+        {
+          "text": "Un clerc de notaire",
+          "isCorrect": false,
+          "rationale": "Ce métier administratif est à l'opposé de la vie de pauvreté et d'errance décrite pour la famille de Gabrielle."
+        }
+      ],
+      "hint": "Il s'agit d'un métier itinérant consistant à vendre des marchandises de village en village."
+    },
+    {
+      "question": "Où Gabrielle Chanel a-t-elle été envoyée après la mort de sa mère ?",
+      "answerOptions": [
+        {
+          "text": "À l'orphelinat de l'abbaye d'Aubazine",
+          "isCorrect": true,
+          "rationale": "Le texte précise que son père a confié ses trois filles à cette institution religieuse en Corrèze."
+        },
+        {
+          "text": "Dans un pensionnat de luxe à Paris",
+          "isCorrect": false,
+          "rationale": "La famille vivait dans la pauvreté, rendant l'accès à une institution prestigieuse impossible à ce stade."
+        },
+        {
+          "text": "Chez sa grand-mère maternelle",
+          "isCorrect": false,
+          "rationale": "Bien qu'elle ait été confiée à des membres de la famille auparavant, le décès de sa mère a conduit à son placement en orphelinat."
+        },
+        {
+          "text": "Dans une école de couture à Moulins",
+          "isCorrect": false,
+          "rationale": "Elle n'a rejoint une institution à Moulins qu'à l'âge de dix-huit ans, après son séjour à l'abbaye."
+        }
+      ],
+      "hint": "C'est un lieu marqué par une discipline de fer et une vie austère en Corrèze."
+    },
+    {
+      "question": "Quel auteur de romans sentimentaux a nourri les fantasmes de Gabrielle durant son adolescence ?",
+      "answerOptions": [
+        {
+          "text": "Pierre Decourcelle",
+          "isCorrect": true,
+          "rationale": "Le texte mentionne que Gabrielle lisait en cachette les œuvres de cet auteur mettant en scène des héroïnes de type Cendrillon."
+        },
+        {
+          "text": "Honoré de Balzac",
+          "isCorrect": false,
+          "rationale": "Bien que célèbre pour ses descriptions, ses œuvres sont plus réalistes que les romans sentimentaux de 'salut' évoqués."
+        },
+        {
+          "text": "Victor Hugo",
+          "isCorrect": false,
+          "rationale": "Cet auteur est associé au romantisme social plutôt qu'aux intrigues de palais et de châteaux qui fascinaient Coco."
+        },
+        {
+          "text": "Gustave Flaubert",
+          "isCorrect": false,
+          "rationale": "Ses romans explorent souvent la désillusion, alors que Gabrielle cherchait des histoires de réussite fulgurante."
+        }
+      ],
+      "hint": "Ses récits transformaient souvent une jeune fille pauvre en une femme riche suite à des rebondissements palpitants."
+    },
+    {
+      "question": "Pourquoi Gabrielle a-t-elle abandonné son rêve de devenir une actrice célèbre ?",
+      "answerOptions": [
+        {
+          "text": "Elle a réalisé qu'elle manquait de talent artistique suffisant",
+          "isCorrect": true,
+          "rationale": "Le texte indique qu'elle a compris assez tôt qu'elle n'avait pas le talent nécessaire pour la réussite théâtrale visée."
+        },
+        {
+          "text": "Le théâtre a été interdit par les autorités locales",
+          "isCorrect": false,
+          "rationale": "Rien dans le texte n'indique une interdiction légale, mais plutôt une limitation personnelle de ses capacités."
+        },
+        {
+          "text": "Elle a perdu sa voix suite à une maladie",
+          "isCorrect": false,
+          "rationale": "Cette hypothèse est dramatique mais n'est pas mentionnée comme la cause de son changement de carrière."
+        },
+        {
+          "text": "Étienne Balsan lui a interdit de monter sur scène",
+          "isCorrect": false,
+          "rationale": "C'est après avoir pris son parti sur son manque de talent qu'elle a accepté de suivre Balsan."
+        }
+      ],
+      "hint": "C'est une prise de conscience lucide sur ses propres capacités par rapport à ses ambitions de gloire."
+    },
+    {
+      "question": "Quel vêtement a inspiré la création de la version moderne du cardigan par Coco Chanel ?",
+      "answerOptions": [
+        {
+          "text": "Un pull d'Arthur 'Boy' Capel",
+          "isCorrect": true,
+          "rationale": "Coco a pris un pull appartenant à Capel, l'a ouvert sur le devant et y a ajouté des boutons."
+        },
+        {
+          "text": "Une veste militaire allemande",
+          "isCorrect": false,
+          "rationale": "Bien qu'elle ait flirté avec le nazisme plus tard, l'origine du cardigan est liée à sa relation avec son amant anglais."
+        },
+        {
+          "text": "Une chemise de nuit d'orphelinat",
+          "isCorrect": false,
+          "rationale": "Le cardigan est un vêtement de loisir élégant, loin de l'austérité des vêtements de son enfance."
+        },
+        {
+          "text": "Un manteau de tweed d'Étienne Balsan",
+          "isCorrect": false,
+          "rationale": "Elle utilisait les vêtements de Balsan pour son style androgyne, mais c'est spécifiquement un pull de Capel qui a servi de base au cardigan."
+        }
+      ],
+      "hint": "Elle a transformé un vêtement masculin de son amant anglais pour éviter de se décoiffer en l'enfilant."
+    },
+    {
+      "question": "Quelle innovation Chanel a-t-elle introduite dans la composition des parfums avec le No. 5 ?",
+      "answerOptions": [
+        {
+          "text": "Un mélange abstrait et synthétique non identifiable à une seule fleur",
+          "isCorrect": true,
+          "rationale": "Elle voulait un 'bouquet de fleurs abstraites' qui sentait différemment sur chaque femme, contrairement aux parfums monofloraux de l'époque."
+        },
+        {
+          "text": "L'utilisation exclusive d'essences de fleurs rares d'Orient",
+          "isCorrect": false,
+          "rationale": "Le texte précise que son parfum utilisait des substances chimiques et des fleurs ordinaires comme le jasmin."
+        },
+        {
+          "text": "L'ajout de poussière d'or dans le flacon",
+          "isCorrect": false,
+          "rationale": "Chanel privilégiait la sobriété des lignes et l'innovation olfactive plutôt que l'ostentation visuelle du liquide."
+        },
+        {
+          "text": "La suppression totale de toute fragrance naturelle",
+          "isCorrect": false,
+          "rationale": "Elle n'a pas supprimé le naturel, elle l'a rendu abstrait par l'ajout de composants chimiques."
+        }
+      ],
+      "hint": "Elle refusait que l'on puisse identifier une fleur particulière dans sa fragrance."
+    },
+    {
+      "question": "Comment Chanel a-t-elle initialement promu son parfum de manière 'subliminale' ?",
+      "answerOptions": [
+        {
+          "text": "En en vaporisant partout dans sa boutique parisienne",
+          "isCorrect": true,
+          "rationale": "Cette méthode incitait les clientes à s'interroger sur l'odeur sans qu'une vente directe leur soit imposée."
+        },
+        {
+          "text": "En achetant des pages entières de publicité dans la presse",
+          "isCorrect": false,
+          "rationale": "Le texte indique qu'elle préférait le mystère et le bouche-à-oreille à une campagne publicitaire traditionnelle massive."
+        },
+        {
+          "text": "En payant des actrices pour crier son nom dans la rue",
+          "isCorrect": false,
+          "rationale": "Cette méthode aurait été trop directe et aurait manqué de l'élégance et du mystère caractéristiques de Chanel."
+        },
+        {
+          "text": "En envoyant des échantillons gratuits à toutes les femmes de Paris",
+          "isCorrect": false,
+          "rationale": "Elle a glissé des flacons seulement à ses clientes les plus mondaines pour créer une rumeur d'exclusivité."
+        }
+      ],
+      "hint": "Elle utilisait l'atmosphère de son propre lieu de vente pour intriguer les clientes."
+    },
+    {
+      "question": "Pourquoi Chanel a-t-elle quitté la France pour la Suisse après 1945 ?",
+      "answerOptions": [
+        {
+          "text": "Elle était discréditée en raison de ses sympathies politiques avec les Allemands",
+          "isCorrect": true,
+          "rationale": "Le texte mentionne qu'elle avait pactisé avec l'occupant et craignait les conséquences de cette collaboration."
+        },
+        {
+          "text": "Elle voulait ouvrir une nouvelle usine de montres",
+          "isCorrect": false,
+          "rationale": "Bien que la Suisse soit célèbre pour l'horlogerie, son exil était motivé par des raisons politiques et non industrielles."
+        },
+        {
+          "text": "Elle a été bannie par le gouvernement français",
+          "isCorrect": false,
+          "rationale": "Le texte dit qu'elle s'est 'réfugiée', suggérant un départ volontaire face au discrédit plutôt qu'un bannissement légal."
+        },
+        {
+          "text": "Elle cherchait de nouvelles sources d'inspiration dans les Alpes",
+          "isCorrect": false,
+          "rationale": "Son départ était lié à la fin de la guerre et à sa situation de paria, non à une recherche esthétique."
+        }
+      ],
+      "hint": "Son passé durant l'Occupation a rendu sa présence en France problématique à la Libération."
+    },
+    {
+      "question": "Quelle a été la réaction initiale de la presse française lors du défilé de retour de Chanel en 1954 ?",
+      "answerOptions": [
+        {
+          "text": "Elle l'a vivement critiquée, la jugeant enfermée dans le passé",
+          "isCorrect": true,
+          "rationale": "La presse a considéré sa collection comme du 'réchauffé' et a rappelé ses liens avec les nazis."
+        },
+        {
+          "text": "Elle l'a immédiatement acclamée comme la sauveuse de la mode",
+          "isCorrect": false,
+          "rationale": "Le succès n'est revenu qu'après que le marché américain a validé ses créations, forçant la presse française à changer d'avis."
+        },
+        {
+          "text": "Elle a ignoré l'événement par indifférence totale",
+          "isCorrect": false,
+          "rationale": "L'événement a attiré une foule énorme par curiosité, la presse ne pouvait donc pas l'ignorer."
+        },
+        {
+          "text": "Elle a salué son courage politique durant la guerre",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : la presse a utilisé son passé politique pour l'attaquer davantage lors de son échec initial."
+        }
+      ],
+      "hint": "Le public et les journalistes ont perçu ses modèles comme une simple copie de ses anciens travaux des années 30."
+    },
+    {
+      "question": "Quel marché a permis de sauver la carrière de Chanel lors de son come-back ?",
+      "answerOptions": [
+        {
+          "text": "Le marché américain",
+          "isCorrect": true,
+          "rationale": "Les Américaines appréciaient les vêtements pratiques et la liberté de mouvement qu'offrait Chanel."
+        },
+        {
+          "text": "Le marché britannique",
+          "isCorrect": false,
+          "rationale": "Bien que son ancien amant fût anglais, c'est outre-Atlantique que le succès commercial massif a eu lieu."
+        },
+        {
+          "text": "Le marché japonais",
+          "isCorrect": false,
+          "rationale": "Le texte ne mentionne aucune stratégie spécifique vers l'Asie à cette époque."
+        },
+        {
+          "text": "Le marché italien",
+          "isCorrect": false,
+          "rationale": "L'Italie est une concurrente dans la mode, mais c'est le pragmatisme des femmes américaines qui a validé son style."
+        }
+      ],
+      "hint": "Ce pays abritait des femmes athlétiques recherchant avant tout l'aspect pratique des vêtements."
+    },
+    {
+      "question": "Quelle attitude Chanel adoptait-elle vis-à-vis des contrefaçons de ses modèles ?",
+      "answerOptions": [
+        {
+          "text": "Elle les encourageait pour diffuser sa marque partout",
+          "isCorrect": true,
+          "rationale": "Elle autorisait les photos et les croquis car elle voulait que son allure soit présente dans toutes les classes sociales."
+        },
+        {
+          "text": "Elle intentait systématiquement des procès aux imitateurs",
+          "isCorrect": false,
+          "rationale": "C'était l'attitude de ses concurrents, mais Chanel faisait exactement le contraire."
+        },
+        {
+          "text": "Elle cachait ses modèles jusqu'au dernier moment pour éviter les copies",
+          "isCorrect": false,
+          "rationale": "Au contraire, elle invitait même les couturières privées des clientes à venir dessiner durant ses défilés."
+        },
+        {
+          "text": "Elle rachetait les stocks de copies pour les détruire",
+          "isCorrect": false,
+          "rationale": "Cette stratégie aurait été coûteuse et inutile pour quelqu'un qui cherchait la 'vengeance suprême' par l'omniprésence."
+        }
+      ],
+      "hint": "Elle voyait dans l'imitation une forme d'admiration et un moyen de conquérir le monde entier."
+    },
+    {
+      "question": "Selon la 'loi de la convoitise', quel est l'effet d'une présence excessive ?",
+      "answerOptions": [
+        {
+          "text": "Elle nous étouffe et diminue l'intérêt",
+          "isCorrect": true,
+          "rationale": "Le texte affirme que trop de présence lasse, tandis qu'un peu d'absence stimule notre intérêt."
+        },
+        {
+          "text": "Elle renforce le respect et la fidélité",
+          "isCorrect": false,
+          "rationale": "C'est un piège commun : on croit que se montrer davantage aide, alors que cela désactive le désir."
+        },
+        {
+          "text": "Elle garantit le succès commercial sur le long terme",
+          "isCorrect": false,
+          "rationale": "La saturation du marché finit par détruire la valeur perçue de l'objet, comme le montre l'exemple de Michael Jackson."
+        },
+        {
+          "text": "Elle crée un lien émotionnel indestructible",
+          "isCorrect": false,
+          "rationale": "L'absence est nécessaire pour que l'autre puisse projeter ses fantasmes et ressentir le manque."
+        }
+      ],
+      "hint": "Pensez au dicton qui dit que l'on se lasse de ce qui est trop disponible."
+    },
+    {
+      "question": "Quel concept neurologique explique que chaque 'non' induit un 'oui' correspondant ?",
+      "answerOptions": [
+        {
+          "text": "L'induction",
+          "isCorrect": true,
+          "rationale": "Le cerveau opère par contrastes, où une image positive génère automatiquement une image négative opposée."
+        },
+        {
+          "text": "La résonance magnétique",
+          "isCorrect": false,
+          "rationale": "C'est un outil d'imagerie médicale mentionné dans le texte, mais pas le principe psychologique de l'oscillation entre pôles."
+        },
+        {
+          "text": "L'instinct de survie",
+          "isCorrect": false,
+          "rationale": "Bien que lié à l'évolution, ce terme est trop large pour désigner le mécanisme spécifique des contrastes cérébraux."
+        },
+        {
+          "text": "Le biais de négativité",
+          "isCorrect": false,
+          "rationale": "Il s'agit d'un autre aspect du cerveau (la vigilance face au danger), mais pas de la génération automatique des contraires."
+        }
+      ],
+      "hint": "C'est un terme aussi utilisé en physique ou pour décrire la perception des couleurs opposées."
+    },
+    {
+      "question": "Pourquoi les êtres humains sont-ils naturellement enclins à un 'biais négatif' ?",
+      "answerOptions": [
+        {
+          "text": "C'était un avantage évolutif pour détecter les dangers",
+          "isCorrect": true,
+          "rationale": "Nos ancêtres devaient être vigilants face aux prédateurs même dans des environnements sûrs."
+        },
+        {
+          "text": "C'est le résultat d'une éducation trop stricte durant l'enfance",
+          "isCorrect": false,
+          "rationale": "Le texte présente cela comme un trait biologique programmé dans le cerveau, et non purement culturel."
+        },
+        {
+          "text": "À cause de la pollution sonore des villes modernes",
+          "isCorrect": false,
+          "rationale": "Ce biais date de l'époque où nous parcourions les savanes, bien avant l'urbanisation."
+        },
+        {
+          "text": "Parce que nous sommes une espèce naturellement dépressive",
+          "isCorrect": false,
+          "rationale": "Il ne s'agit pas d'un état mental pathologique, mais d'une fonction de survie qui nous rend insatisfaits."
+        }
+      ],
+      "hint": "Réfléchissez à ce qui permettait à nos ancêtres de survivre dans la nature sauvage."
+    },
+    {
+      "question": "Quel trait de caractère Michael Jackson utilisait-il pour maintenir le désir de son public ?",
+      "answerOptions": [
+        {
+          "text": "Le retrait stratégique et le mystère",
+          "isCorrect": true,
+          "rationale": "Il gérait la fréquence de ses apparitions et ne confirmait jamais les rumeurs pour laisser planer l'ambiguïté."
+        },
+        {
+          "text": "L'honnêteté totale sur sa vie privée",
+          "isCorrect": false,
+          "rationale": "Le texte dit l'inverse : il laissait planer le flou sur sa vie pour stimuler l'imagination."
+        },
+        {
+          "text": "L'omniprésence médiatique quotidienne",
+          "isCorrect": false,
+          "rationale": "Une telle saturation aurait tué le désir ; il étalait soigneusement ses sorties d'albums."
+        },
+        {
+          "text": "Le rejet complet de toute forme de publicité",
+          "isCorrect": false,
+          "rationale": "Il utilisait la publicité de manière subtile et contrôlée, pas par un rejet total."
+        }
+      ],
+      "hint": "Il agissait comme une figure insaisissable dont on ne connaissait jamais vraiment la vérité."
+    },
+    {
+      "question": "Selon le texte, quel est le 'plaisir' principal lié à un objet de désir ?",
+      "answerOptions": [
+        {
+          "text": "La poursuite de l'objet",
+          "isCorrect": true,
+          "rationale": "Beaumarchais est cité pour affirmer que le plaisir est dans la poursuite, non dans la jouissance finale."
+        },
+        {
+          "text": "La possession matérielle définitive",
+          "isCorrect": false,
+          "rationale": "La possession entraîne inévitablement une déception et la fin du fantasme selon la loi décrite."
+        },
+        {
+          "text": "Le prix élevé payé pour l'obtenir",
+          "isCorrect": false,
+          "rationale": "Le prix est un indicateur de valeur, mais le moteur émotionnel reste la dynamique de la quête."
+        },
+        {
+          "text": "Le fait de pouvoir l'exhiber devant ses ennemis",
+          "isCorrect": false,
+          "rationale": "Bien que la rivalité joue un rôle, le texte se concentre sur l'activité de l'esprit durant le désir lui-même."
+        }
+      ],
+      "hint": "C'est l'étape qui précède l'obtention et qui excite le plus l'imagination."
+    },
+    {
+      "question": "Que recommande l'auteur pour augmenter sa valeur lors d'une négociation ?",
+      "answerOptions": [
+        {
+          "text": "Faire intervenir d'autres personnes qui se disputent vos services",
+          "isCorrect": true,
+          "rationale": "Cela crée une compétition qui augmente votre valeur aux yeux de tous les participants."
+        },
+        {
+          "text": "Accepter immédiatement la première offre par politesse",
+          "isCorrect": false,
+          "rationale": "Être trop disponible ou facile à obtenir diminue votre valeur perçue."
+        },
+        {
+          "text": "Montrer que vous avez désespérément besoin du contrat",
+          "isCorrect": false,
+          "rationale": "Révéler ses besoins trop clairement fait fuir le désir et le respect de l'interlocuteur."
+        },
+        {
+          "text": "Baisser ses tarifs pour paraître plus compétitif",
+          "isCorrect": false,
+          "rationale": "Dans la loi de la convoitise, la rareté et la difficulté d'accès augmentent le désir, pas le bas prix."
+        }
+      ],
+      "hint": "Il s'agit d'utiliser l'instinct social qui nous pousse à vouloir ce que les autres veulent."
+    },
+    {
+      "question": "Quel 'tabou' humain Chanel a-t-elle exploité avec son style androgyne ?",
+      "answerOptions": [
+        {
+          "text": "La barrière entre le masculin et le féminin",
+          "isCorrect": true,
+          "rationale": "Le mélange des genres était transgressif et donnait un sentiment de liberté par rapport aux normes de l'époque."
+        },
+        {
+          "text": "L'interdiction de porter des vêtements noirs le jour",
+          "isCorrect": false,
+          "rationale": "Le noir est une couleur Chanel, mais la transgression principale mentionnée est l'aspect 'garçon manqué'."
+        },
+        {
+          "text": "L'usage de tissus synthétiques polluants",
+          "isCorrect": false,
+          "rationale": "Elle utilisait le jersey, qui était bon marché, mais la question du tabou social se situe au niveau de l'identité."
+        },
+        {
+          "text": "Le droit de vote des femmes",
+          "isCorrect": false,
+          "rationale": "C'est un sujet politique, alors que Chanel agissait sur les perceptions physiques et psychologiques de la féminité."
+        }
+      ],
+      "hint": "Elle portait des vêtements d'homme comme des jodhpurs et des canotiers."
+    },
+    {
+      "question": "Quelle est la 'vengeance suprême' de Chanel selon l'interprétation du texte ?",
+      "answerOptions": [
+        {
+          "text": "Habiller des millions de femmes et diffuser son logo partout",
+          "isCorrect": true,
+          "rationale": "C'est la compensation pour une enfance vécue sans attention et sans amour."
+        },
+        {
+          "text": "Devenir plus riche que son père ne l'aurait jamais imaginé",
+          "isCorrect": false,
+          "rationale": "L'argent est un moyen, mais l'impact culturel et l'omniprésence de son 'allure' constituent la véritable victoire."
+        },
+        {
+          "text": "Ruiner Étienne Balsan et Arthur Capel",
+          "isCorrect": false,
+          "rationale": "Ils ont été ses protecteurs et alliés ; elle a construit son succès avec eux, pas contre eux."
+        },
+        {
+          "text": "Retourner brûler l'orphelinat de son enfance",
+          "isCorrect": false,
+          "rationale": "Elle a utilisé son passé pour créer un mythe mystérieux, pas pour une vengeance violente et littérale."
+        }
+      ],
+      "hint": "Elle voulait que son influence soit incontournable dans le monde entier."
+    },
+    {
+      "question": "Comment le texte décrit-il l'effet de la réalité par rapport à l'imagination dans le cerveau ?",
+      "answerOptions": [
+        {
+          "text": "Elles sont expérimentées avec une intensité similaire",
+          "isCorrect": true,
+          "rationale": "L'IRM montre que l'activité cérébrale est quasi identique que l'on vive une chose ou qu'on l'imagine."
+        },
+        {
+          "text": "La réalité est toujours dix fois plus puissante que le rêve",
+          "isCorrect": false,
+          "rationale": "Au contraire, l'imagination permet de dépasser les limites réelles, ce qui lui donne une force d'attraction immense."
+        },
+        {
+          "text": "L'imagination est un processus conscient, la réalité est inconsciente",
+          "isCorrect": false,
+          "rationale": "Le texte ne fait pas cette distinction ; il souligne plutôt la confusion entre les deux au niveau neurologique."
+        },
+        {
+          "text": "Le cerveau ignore totalement les stimuli imaginaires",
+          "isCorrect": false,
+          "rationale": "Le cerveau réagit chimiquement et électriquement aux pensées imaginaires comme s'il s'agissait de faits réels."
+        }
+      ],
+      "hint": "Pensez aux tests scientifiques qui utilisent la résonance magnétique."
+    },
+    {
+      "question": "Quel est le risque de se montrer 'trop transparent et familier' dans une relation ?",
+      "answerOptions": [
+        {
+          "text": "On ne laisse aucune place au fantasme, ce qui tue l'intérêt",
+          "isCorrect": true,
+          "rationale": "La familiarité totale rend la personne prévisible et enlève le mystère nécessaire au désir."
+        },
+        {
+          "text": "On risque de se faire voler ses idées plus facilement",
+          "isCorrect": false,
+          "rationale": "C'est un risque professionnel, mais le texte souligne ici l'impact sur l'attention et l'attractivité personnelle."
+        },
+        {
+          "text": "Les gens nous admirent pour notre honnêteté",
+          "isCorrect": false,
+          "rationale": "L'auteur qualifie cela d''absurdité' et de 'moralisme à quatre sous' qui ne fonctionne pas en psychologie humaine."
+        },
+        {
+          "text": "On devient un leader d'opinion respecté",
+          "isCorrect": false,
+          "rationale": "Le texte suggère que sans mystère, l'attention des autres passe rapidement à quelqu'un d'autre."
+        }
+      ],
+      "hint": "Le désir a besoin d'un espace vide ou d'un manque pour s'épanouir."
+    },
+    {
+      "question": "Quelle leçon Arthur Schopenhauer tire-t-il des relations humaines à la fin du texte ?",
+      "answerOptions": [
+        {
+          "text": "Il faut parfois montrer du dédain pour renforcer l'amitié",
+          "isCorrect": true,
+          "rationale": "Il suggère qu'une légère indifférence ou distance valorise notre présence aux yeux des autres."
+        },
+        {
+          "text": "L'honnêteté est le seul socle durable d'une relation",
+          "isCorrect": false,
+          "rationale": "Schopenhauer est connu pour son pessimisme ; il conseille ici la dissimulation de la valeur accordée à l'autre."
+        },
+        {
+          "text": "Les hommes supportent mieux l'amitié que les chiens",
+          "isCorrect": false,
+          "rationale": "Il dit exactement le contraire : même les chiens supportent mal une trop grande amitié, les hommes encore moins."
+        },
+        {
+          "text": "Il faut tout dire à ses amis pour ne pas avoir de regrets",
+          "isCorrect": false,
+          "rationale": "Il recommande de cacher la valeur réelle qu'on porte à quelqu'un 'comme si c'était un crime'."
+        }
+      ],
+      "hint": "C'est une vision assez cynique qui préconise de ne pas être trop acquis."
+    },
+    {
+      "question": "Quel est l'objectif de la stratégie de 'voyeurisme' mentionnée dans les stratégies de désir ?",
+      "answerOptions": [
+        {
+          "text": "Donner l'impression de révéler des secrets confidentiels",
+          "isCorrect": true,
+          "rationale": "Cela excite la curiosité en brisant le tabou social de la vie privée."
+        },
+        {
+          "text": "Installer des caméras dans les bureaux de ses concurrents",
+          "isCorrect": false,
+          "rationale": "C'est une interprétation littérale et illégale, alors que la stratégie est symbolique et liée à la communication."
+        },
+        {
+          "text": "Montrer sa vie quotidienne sur les réseaux sociaux 24h/24",
+          "isCorrect": false,
+          "rationale": "Cela créerait une saturation et une transparence totale, ce qui est l'opposé du mystère recherché."
+        },
+        {
+          "text": "Regarder les gens sans être vu pour les manipuler",
+          "isCorrect": false,
+          "rationale": "La stratégie consiste à se positionner comme celui qui 'dévoile' quelque chose au public pour l'attirer."
+        }
+      ],
+      "hint": "Il s'agit de jouer sur l'envie des gens de savoir ce qui se passe 'derrière la porte'."
+    },
+    {
+      "question": "Dans le récit de l'Exode, pourquoi les Hébreux regrettaient-ils l'Égypte malgré leur esclavage ?",
+      "answerOptions": [
+        {
+          "text": "À cause du syndrome de l'herbe plus verte ailleurs",
+          "isCorrect": true,
+          "rationale": "Dès qu'ils ont affronté les épreuves du désert, leur esprit a idéalisé leur passé pourtant difficile."
+        },
+        {
+          "text": "Parce qu'ils préféraient la religion polythéiste",
+          "isCorrect": false,
+          "rationale": "Bien qu'ils aient créé un veau d'or, le regret principal cité concerne la nourriture et le confort passé."
+        },
+        {
+          "text": "Car Moïse était un chef beaucoup trop autoritaire",
+          "isCorrect": false,
+          "rationale": "Moïse suivait les ordres divins, mais l'insatisfaction venait de la nature humaine des Hébreux eux-mêmes."
+        },
+        {
+          "text": "Parce que l'Égypte leur manquait pour ses monuments",
+          "isCorrect": false,
+          "rationale": "Le texte mentionne spécifiquement la nostalgie des viandes, melons et concombres."
+        }
+      ],
+      "hint": "C'est une illusion d'optique psychologique qui rend le passé ou l'ailleurs plus attirant que le présent."
+    },
+    {
+      "question": "Que signifie 'embrasser son destin' selon l'introduction de la loi ?",
+      "answerOptions": [
+        {
+          "text": "Accueillir sa situation personnelle à bras ouverts pour surmonter ses faiblesses",
+          "isCorrect": true,
+          "rationale": "C'est le conseil donné pour ne pas être esclave de la convoitise incessante pour ce que l'on n'a pas."
+        },
+        {
+          "text": "Abandonner toute ambition et attendre que les choses arrivent",
+          "isCorrect": false,
+          "rationale": "Le texte encourage à agir sur le désir des autres, pas à devenir passif."
+        },
+        {
+          "text": "Chercher par tous les moyens à devenir quelqu'un d'autre",
+          "isCorrect": false,
+          "rationale": "C'est justement cette fuite de soi qui crée l'agitation vaine et l'insatisfaction chronique dénoncées."
+        },
+        {
+          "text": "Se venger de ceux qui ont eu plus de chance que nous",
+          "isCorrect": false,
+          "rationale": "L'auteur suggère plutôt de maîtriser son propre psychisme pour gagner du pouvoir."
+        }
+      ],
+      "hint": "C'est une forme de stoïcisme ou d'acceptation de la réalité pour rester ancré."
+    },
+    {
+      "question": "Quel est le 'désir suprême' vers lequel l'homme devrait tendre selon la conclusion ?",
+      "answerOptions": [
+        {
+          "text": "Un contact plus profond avec la réalité",
+          "isCorrect": true,
+          "rationale": "Ce lien apporte sérénité et le pouvoir concret de modifier ce qui est possible."
+        },
+        {
+          "text": "L'acquisition de la richesse absolue",
+          "isCorrect": false,
+          "rationale": "La richesse n'est qu'un objet de convoitise supplémentaire qui ne comble pas l'insatisfaction intérieure."
+        },
+        {
+          "text": "La capacité de lire dans les pensées des autres",
+          "isCorrect": false,
+          "rationale": "On peut apprendre à identifier les fantasmes des autres, mais le but ultime reste la connexion au réel."
+        },
+        {
+          "text": "Le voyage vers des contrées exotiques lointaines",
+          "isCorrect": false,
+          "rationale": "Le texte met en garde contre la fuite dans l'exotisme qui n'est qu'une illusion du syndrome de l'herbe plus verte."
+        }
+      ],
+      "hint": "C'est l'opposé de la dérive constante vers le virtuel ou l'imaginaire."
+    }
+  ]
+}

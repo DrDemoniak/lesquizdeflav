@@ -1,0 +1,663 @@
+{
+  "title": "Loi 4 : Déterminer la Force du Caractère",
+  "description": "Découvrez comment le caractère profond dicte nos actions répétitives et apprenez à identifier les profils toxiques avant qu'ils n'agissent.",
+  "themes": [
+    "Le Comportement Compulsif",
+    "Origines : Enfance & Attachement",
+    "Évaluer le Caractère d'Autrui",
+    "Les Profils Toxiques",
+    "Force de Caractère & Résilience"
+  ],
+  "questions": [
+    {
+      "question": "Selon le texte, quel est le fondement de la « loi du comportement compulsif » ?",
+      "answerOptions": [
+        {
+          "text": "Les êtres humains sont capables de changer radicalement de comportement selon la situation.",
+          "isCorrect": false,
+          "rationale": "Le texte soutient au contraire que le caractère force la répétition d'actions spécifiques."
+        },
+        {
+          "text": "Le caractère d'un individu le pousse à répéter inévitablement certains schémas d'action.",
+          "isCorrect": true,
+          "rationale": "Cette loi postule que les schémas comportementaux sont gravés et répétitifs au fil du temps."
+        },
+        {
+          "text": "La réputation d'une personne est l'indicateur le plus fiable de ses actions futures.",
+          "isCorrect": false,
+          "rationale": "Le texte met en garde contre l'image projetée et la réputation, qui sont souvent des façades."
+        },
+        {
+          "text": "Les décisions humaines sont principalement dictées par une logique rationnelle instantanée.",
+          "isCorrect": false,
+          "rationale": "L'auteur souligne que les actions sont souvent issues d'automatismes inconscients plutôt que de pure rationalité."
+        }
+      ],
+      "hint": "Considérez l'idée d'une empreinte gravée qui influence la constance des actions."
+    },
+    {
+      "question": "Quel trait de l'enfance d'Howard Hughes a préfiguré son besoin de contrôle total à l'âge adulte ?",
+      "answerOptions": [
+        {
+          "text": "L'absence totale d'autorité parentale qui l'a forcé à se discipliner seul.",
+          "isCorrect": false,
+          "rationale": "Au contraire, Hughes a été étouffé par une surveillance constante de ses parents."
+        },
+        {
+          "text": "Le mépris affiché par ses oncles et tantes qui doutaient de ses capacités.",
+          "isCorrect": false,
+          "rationale": "Bien qu'ils le voyaient comme timide, c'est la dynamique avec ses parents qui a forgé son caractère."
+        },
+        {
+          "text": "L'étouffement affectif et la surveillance constante exercés par sa mère.",
+          "isCorrect": true,
+          "rationale": "Cette dépendance totale forcée durant l'enfance a créé une anxiété compensée par un besoin de contrôle absolu."
+        },
+        {
+          "text": "Son désir précoce de surpasser la fortune de son père dans l'industrie pétrolière.",
+          "isCorrect": false,
+          "rationale": "Ses motivations étaient plus liées à l'indépendance psychologique qu'à une simple compétition financière."
+        }
+      ],
+      "hint": "Réfléchissez à l'impact d'une mère hyper-anxieuse sur l'autonomie d'un enfant unique."
+    },
+    {
+      "question": "Selon l'interprétation de l'auteur, pourquoi Howard Hughes a-t-il échoué en tant qu'homme d'affaires malgré sa fortune ?",
+      "answerOptions": [
+        {
+          "text": "Il manquait de connaissances techniques dans le domaine de l'aviation.",
+          "isCorrect": false,
+          "rationale": "Hughes était au contraire très compétent techniquement, mais mauvais manager."
+        },
+        {
+          "text": "Il n'arrivait pas à obtenir de contrats gouvernementaux lucratifs.",
+          "isCorrect": false,
+          "rationale": "Il obtenait les contrats grâce au lobbying, mais ne parvenait pas à les honorer."
+        },
+        {
+          "text": "Son incapacité à déléguer et sa volonté de tout superviser créaient un chaos interne.",
+          "isCorrect": true,
+          "rationale": "Sa peur de dépendre des autres le poussait à micro-gérer, sabotant ainsi l'efficacité de ses entreprises."
+        },
+        {
+          "text": "Il a investi toute sa fortune dans des studios de cinéma non rentables.",
+          "isCorrect": false,
+          "rationale": "Bien que le cinéma fût un échec, c'est son style de gestion global qui a causé ses fiascos."
+        }
+      ],
+      "hint": "Cherchez le paradoxe entre vouloir tout maîtriser et la désorganisation qui en résulte."
+    },
+    {
+      "question": "Quelle est la caractéristique principale de la deuxième couche du caractère selon le modèle présenté ?",
+      "answerOptions": [
+        {
+          "text": "Les prédispositions génétiques aux troubles de l'humeur.",
+          "isCorrect": false,
+          "rationale": "Cela correspond à la première couche, la plus profonde et biologique."
+        },
+        {
+          "text": "Le type d'attachement établi avec la mère durant la petite enfance.",
+          "isCorrect": true,
+          "rationale": "Cette couche se forme entre trois et quatre ans et colore la manière de gérer les relations et le stress."
+        },
+        {
+          "text": "Les masques sociaux utilisés pour cacher ses défauts à l'adolescence.",
+          "isCorrect": false,
+          "rationale": "Il s'agit de la quatrième couche, axée sur la dissimulation."
+        },
+        {
+          "text": "Les stratégies conscientes développées pour manipuler les autres.",
+          "isCorrect": false,
+          "rationale": "Cela relève de la troisième couche, basée sur les habitudes acquises en grandissant."
+        }
+      ],
+      "hint": "Cette couche concerne la malléabilité du cerveau du jeune enfant face à ses soignants."
+    },
+    {
+      "question": "Quel type d'attachement, selon Bowlby, correspond à une mère étouffante puis absente, créant un sentiment d'ambivalence chez l'enfant ?",
+      "answerOptions": [
+        {
+          "text": "Attachement autonome.",
+          "isCorrect": false,
+          "rationale": "L'attachement autonome est lié à une protection cohérente et une liberté de découverte."
+        },
+        {
+          "text": "Attachement anxieux évitant.",
+          "isCorrect": false,
+          "rationale": "Le type évitant naît d'une mère distante ou hostile, forçant l'enfant à se débrouiller seul."
+        },
+        {
+          "text": "Attachement anxieux ambivalent.",
+          "isCorrect": true,
+          "rationale": "L'incohérence maternelle crée une alternation entre recherche de compagnie et retrait soudain."
+        },
+        {
+          "text": "Attachement désorganisé.",
+          "isCorrect": false,
+          "rationale": "Ce type reflète un chaos intérieur et des traumatismes, sans schéma de réponse stable."
+        }
+      ],
+      "hint": "Le terme décrit un sentiment partagé et contradictoire envers autrui."
+    },
+    {
+      "question": "Pourquoi l'auteur affirme-t-il que les humains sont généralement « médiocres » pour évaluer le caractère d'autrui ?",
+      "answerOptions": [
+        {
+          "text": "Parce que le caractère change trop rapidement pour être observé.",
+          "isCorrect": false,
+          "rationale": "L'auteur soutient que le caractère est au contraire très stable et prévisible."
+        },
+        {
+          "text": "Parce que nous jugeons les gens sur leurs apparences et leur réputation.",
+          "isCorrect": true,
+          "rationale": "Nous nous laissons éblouir par le charme ou le succès au lieu de sonder les schémas comportementaux profonds."
+        },
+        {
+          "text": "Parce que le caractère n'est visible que dans des situations de crise extrême.",
+          "isCorrect": false,
+          "rationale": "S'il est plus visible en crise, le caractère se manifeste aussi dans les affaires quotidiennes."
+        },
+        {
+          "text": "Parce que nous manquons d'empathie naturelle pour comprendre les motivations des autres.",
+          "isCorrect": false,
+          "rationale": "Le problème n'est pas le manque d'empathie, mais notre vulnérabilité face aux illusions d'optique sociale."
+        }
+      ],
+      "hint": "Pensez à l'effet de la façade que les individus construisent pour la société."
+    },
+    {
+      "question": "Quel est l'adage d'Abraham Lincoln cité pour tester le caractère d'un homme ?",
+      "answerOptions": [
+        {
+          "text": "« Le caractère est comme un arbre et la réputation comme son ombre. »",
+          "isCorrect": false,
+          "rationale": "Cette citation traite de la réputation, pas du test du caractère par une condition spécifique."
+        },
+        {
+          "text": "« Si vous voulez tester le caractère d'un homme, donnez-lui le pouvoir. »",
+          "isCorrect": true,
+          "rationale": "Le pouvoir libère les contraintes sociales et révèle les véritables tendances de la personnalité."
+        },
+        {
+          "text": "« On peut tromper tout le monde un certain temps, mais pas tout le temps. »",
+          "isCorrect": false,
+          "rationale": "Bien que pertinente pour la vérité, cette phrase ne définit pas le test ultime du caractère."
+        },
+        {
+          "text": "« Mieux vaut se taire et passer pour un fou que de parler et de le confirmer. »",
+          "isCorrect": false,
+          "rationale": "Cette citation concerne la sagesse et la parole, non le caractère intrinsèque."
+        }
+      ],
+      "hint": "Considérez ce qui arrive quand une personne n'a plus besoin de jouer les courtisans pour réussir."
+    },
+    {
+      "question": "Selon le texte, comment un individu au caractère fort réagit-il face à l'adversité ?",
+      "answerOptions": [
+        {
+          "text": "Il s'enferme dans ses convictions pour ne pas être influencé.",
+          "isCorrect": false,
+          "rationale": "L'obstination aveugle est souvent un signe de faiblesse ou d'insécurité."
+        },
+        {
+          "text": "Il disparaît de la scène pour éviter de commettre des erreurs sous pression.",
+          "isCorrect": false,
+          "rationale": "C'est le comportement typique d' Howard Hughes ou des personnalités fuyantes."
+        },
+        {
+          "text": "Il garde sa présence d'esprit et est capable de s'adapter sans rompre.",
+          "isCorrect": true,
+          "rationale": "La force de caractère réside dans la résilience, l'adaptabilité et le maintien des principes de base."
+        },
+        {
+          "text": "Il délègue immédiatement toutes les responsabilités pour ne pas échouer seul.",
+          "isCorrect": false,
+          "rationale": "La délégation par peur de l'échec est une fuite, pas une preuve de force."
+        }
+      ],
+      "hint": "Pensez à l'analogie d'un métal qui possède une bonne résistance à la traction."
+    },
+    {
+      "question": "Quelle est la motivation cachée derrière la gentillesse excessive du type toxique nommé « le Courtisan » ?",
+      "answerOptions": [
+        {
+          "text": "Un amour sincère pour son prochain et un désir d'harmonie.",
+          "isCorrect": false,
+          "rationale": "Le texte définit ce type comme utilisant le charme comme mécanisme de défense."
+        },
+        {
+          "text": "Un mécanisme de défense pour détourner l'hostilité, masquant souvent un grand ressentiment.",
+          "isCorrect": true,
+          "rationale": "Issu souvent de parents sévères, il sourit pour se protéger tout en nourrissant une envie de nuire en secret."
+        },
+        {
+          "text": "Un besoin d'être sauvé de ses propres difficultés financières.",
+          "isCorrect": false,
+          "rationale": "Cela correspondrait plutôt à un profil de victime ou d'accapareur."
+        },
+        {
+          "text": "Une volonté d'enseigner aux autres les bonnes manières et la morale.",
+          "isCorrect": false,
+          "rationale": "C'est la caractéristique du « Donneur de leçons »."
+        }
+      ],
+      "hint": "Considérez le charme comme un bouclier contre des parents autrefois trop durs."
+    },
+    {
+      "question": "Le type toxique « l'Écorché vif » se caractérise par :",
+      "answerOptions": [
+        {
+          "text": "Une capacité d'empathie supérieure qui le rend vulnérable.",
+          "isCorrect": false,
+          "rationale": "Sa sensibilité est à sens unique : il ne s'intéresse qu'à ses propres blessures."
+        },
+        {
+          "text": "Une tendance à prendre tout pour soi et à ruminer des offenses imaginaires.",
+          "isCorrect": true,
+          "rationale": "Ces individus pensent que tout ce qui est dit ou fait est une attaque personnelle liée à leur manque d'attention infantile."
+        },
+        {
+          "text": "Un désir de rébellion contre toutes les formes d'injustice sociale.",
+          "isCorrect": false,
+          "rationale": "C'est le profil du « Rebelle absolu » ou du « Donneur de leçons »."
+        },
+        {
+          "text": "Une addiction au drame pour attirer l'attention de ses parents.",
+          "isCorrect": false,
+          "rationale": "C'est la définition de « l'Accapareur »."
+        }
+      ],
+      "hint": "Imaginez quelqu'un dont la sensibilité ne fonctionne que vers l'intérieur."
+    },
+    {
+      "question": "Comment le type toxique « le Sauveur » exerce-t-il son contrôle sur les autres ?",
+      "answerOptions": [
+        {
+          "text": "En humiliant ses subordonnés dès qu'ils font une erreur.",
+          "isCorrect": false,
+          "rationale": "C'est une tactique de pouvoir brute, non celle du sauveur."
+        },
+        {
+          "text": "En se rendant indispensable par des conseils et une aide qu'il utilise pour étouffer l'autonomie d'autrui.",
+          "isCorrect": true,
+          "rationale": "Le sauveur tire son pouvoir de la dépendance de sa victime, souvent pour compenser un rôle parental inversé dans l'enfance."
+        },
+        {
+          "text": "En racontant des histoires rocambolesques pour se faire admirer.",
+          "isCorrect": false,
+          "rationale": "Cela correspond au « Beau parleur » ou à « l'Accapareur »."
+        },
+        {
+          "text": "En refusant de prendre la moindre décision pour ne pas être critiqué.",
+          "isCorrect": false,
+          "rationale": "C'est une stratégie d'évitement propre au « Beau parleur »."
+        }
+      ],
+      "hint": "Réfléchissez à l'aspect possessif d'une aide non sollicitée ou trop insistante."
+    },
+    {
+      "question": "Quelle leçon l'actrice Joan Crawford a-t-elle donnée sur le « caractère supérieur » ?",
+      "answerOptions": [
+        {
+          "text": "Il faut oublier son passé pour se réinventer totalement.",
+          "isCorrect": false,
+          "rationale": "L'auteur affirme qu'on ne peut pas échapper à son empreinte, mais qu'on peut travailler avec."
+        },
+        {
+          "text": "Elle a utilisé ses insécurités et sa souffrance passée pour nourrir ses rôles et sa relation avec les réalisateurs.",
+          "isCorrect": true,
+          "rationale": "Elle a transformé ses faiblesses (hypersensibilité, besoin d'amour) en atouts professionnels par l'introspection et le travail."
+        },
+        {
+          "text": "Elle a systématiquement évité les rôles qui lui rappelaient sa pauvreté d'enfance.",
+          "isCorrect": false,
+          "rationale": "Au contraire, elle transférait ses sentiments de trahison et de tristesse dans ses personnages."
+        },
+        {
+          "text": "Elle a développé un caractère fort en refusant toute critique des réalisateurs.",
+          "isCorrect": false,
+          "rationale": "Elle était très réceptive aux critiques, les utilisant pour s'améliorer constamment."
+        }
+      ],
+      "hint": "Considérez l'alchimie consistant à transformer une vulnérabilité en source de pouvoir."
+    },
+    {
+      "question": "D'après l'étymologie grecque cité dans le texte, que signifie originellement le mot « caractère » ?",
+      "answerOptions": [
+        {
+          "text": "Le masque de théâtre.",
+          "isCorrect": false,
+          "rationale": "Le masque se rapporte plutôt au concept de 'persona'."
+        },
+        {
+          "text": "Signe gravé, empreinte.",
+          "isCorrect": true,
+          "rationale": "Le mot vient de 'kharatêr', soulignant que le caractère est quelque chose de profondément ancré qui force l'action."
+        },
+        {
+          "text": "Force de la volonté.",
+          "isCorrect": false,
+          "rationale": "Bien que lié, l'étymologie insiste sur la marque fixe plutôt que sur l'effort de volonté."
+        },
+        {
+          "text": "Destinée divine.",
+          "isCorrect": false,
+          "rationale": "Si Héraclite lie caractère et destin, l'étymologie du mot lui-même désigne une marque physique."
+        }
+      ],
+      "hint": "Pensez à un marquage indélébile sur un objet."
+    },
+    {
+      "question": "Pourquoi Warren Buffett accordait-il plus d'importance au caractère des PDG qu'aux chiffres de leurs entreprises ?",
+      "answerOptions": [
+        {
+          "text": "Parce qu'il pensait que les chiffres étaient toujours manipulés.",
+          "isCorrect": false,
+          "rationale": "Le texte ne mentionne pas la fraude comptable, mais la fiabilité humaine à long terme."
+        },
+        {
+          "text": "Parce que la faiblesse de caractère finit par neutraliser toutes les autres qualités positives, comme l'intelligence.",
+          "isCorrect": true,
+          "rationale": "Une personne brillante mais faible ne supportera pas la pression ou les critiques, causant des pertes cachées."
+        },
+        {
+          "text": "Parce qu'il préférait les PDG introvertis aux extravertis.",
+          "isCorrect": false,
+          "rationale": "L'importance est mise sur la force du caractère (résistance, autonomie) plutôt que sur une simple tendance sociale."
+        },
+        {
+          "text": "Parce qu'un bon caractère garantit une absence totale d'erreurs stratégiques.",
+          "isCorrect": false,
+          "rationale": "Personne n'est infaillible, mais un caractère fort apprend de ses erreurs, contrairement à un caractère faible."
+        }
+      ],
+      "hint": "Considérez ce qui arrive à une bonne idée entre les mains d'une personne qui s'écroule sous le stress."
+    },
+    {
+      "question": "Que suggère l'auteur pour identifier un caractère faible au sein d'une équipe ?",
+      "answerOptions": [
+        {
+          "text": "Leur donner des instructions extrêmement précises et répétitives.",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : on les teste en leur donnant moins d'instructions pour voir leur autonomie."
+        },
+        {
+          "text": "Observer s'ils s'empressent de partager des informations confidentielles ou des rumeurs.",
+          "isCorrect": true,
+          "rationale": "Le manque de fiabilité et le besoin de se faire valoir par des commérages trahissent une insécurité intérieure."
+        },
+        {
+          "text": "Vérifier s'ils sont capables de travailler plus de dix heures par jour.",
+          "isCorrect": false,
+          "rationale": "Le travail acharné peut être compulsif et toxique (comme l'hyper-perfectionniste), ce n'est pas un test de fiabilité morale."
+        },
+        {
+          "text": "Regarder s'ils s'entendent bien avec tous leurs collègues sans exception.",
+          "isCorrect": false,
+          "rationale": "Le désir de plaire à tout le monde peut être un signe de faiblesse (type Courtisan)."
+        }
+      ],
+      "hint": "Pensez à la gestion de l'information et à la loyauté envers le groupe."
+    },
+    {
+      "question": "Quelle est la vision d'un « introverti » sur un « extraverti », selon l'analyse psychologique du texte ?",
+      "answerOptions": [
+        {
+          "text": "Il le voit comme un modèle de réussite sociale à imiter.",
+          "isCorrect": false,
+          "rationale": "L'introverti se sent généralement épuisé et perdu dans l'agitation de l'extraverti."
+        },
+        {
+          "text": "Il le juge superficiel, inconstant et trop préoccupé par l'opinion d'autrui.",
+          "isCorrect": true,
+          "rationale": "L'introverti privilégie ses critères personnels et perçoit souvent la recherche de stimulation externe comme une absence de profondeur."
+        },
+        {
+          "text": "Il le considère comme un partenaire idéal pour compenser sa propre timidité.",
+          "isCorrect": false,
+          "rationale": "Bien qu'ils puissent se compléter, le texte insiste sur le fait qu'ils ont tendance à ne pas se comprendre d'emblée."
+        },
+        {
+          "text": "Il le voit comme une personne pessimiste et trop prudente.",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : les introvertis tendent à être plus pessimistes et inquiets."
+        }
+      ],
+      "hint": "Considérez le fossé entre la focalisation sur le monde intérieur et le monde extérieur."
+    },
+    {
+      "question": "Quel comportement compulsif Howard Hughes manifestait-il face à l'échec d'un projet ?",
+      "answerOptions": [
+        {
+          "text": "Il redoublait d'efforts publics pour sauver sa réputation.",
+          "isCorrect": false,
+          "rationale": "Hughes utilisait la publicité pour son image, mais fuyait la réalité des problèmes techniques."
+        },
+        {
+          "text": "Il tombait malade ou disparaissait brusquement de la scène.",
+          "isCorrect": true,
+          "rationale": "C'était son schéma récurrent pour éviter de faire face à son impuissance ou à la perte de contrôle."
+        },
+        {
+          "text": "Il accusait systématiquement le gouvernement de sabotage.",
+          "isCorrect": false,
+          "rationale": "Bien qu'il fît du lobbying, sa réaction profonde était le retrait et la fuite."
+        },
+        {
+          "text": "Il vendait immédiatement toutes ses parts pour recommencer ailleurs.",
+          "isCorrect": false,
+          "rationale": "Il s'accrochait souvent à ses échecs (comme le Spruce Goose) par refus de céder."
+        }
+      ],
+      "hint": "Réfléchissez à une réaction de fuite psychologique ou physique."
+    },
+    {
+      "question": "Selon le texte, quel est le danger de travailler avec un « hyper-perfectionniste » ?",
+      "answerOptions": [
+        {
+          "text": "Il finit par se désintéresser du projet par manque de rigueur.",
+          "isCorrect": false,
+          "rationale": "Son problème est l'excès de rigueur mal placée, pas le manque d'intérêt."
+        },
+        {
+          "text": "Il vous délègue trop de responsabilités, vous causant un surmenage.",
+          "isCorrect": false,
+          "rationale": "Au contraire, il est incapable de déléguer quoi que ce soit."
+        },
+        {
+          "text": "Son besoin de tout contrôler par anxiété finit par épuiser et infantiliser ses collaborateurs.",
+          "isCorrect": true,
+          "rationale": "Il ne fait confiance à personne et son désir de pouvoir masque un souci d'excellence de façade."
+        },
+        {
+          "text": "Il est trop soucieux de l'opinion des autres et change constamment d'avis.",
+          "isCorrect": false,
+          "rationale": "C'est le profil de l'extraverti ou du courtisan, l'hyper-perfectionniste est rigide."
+        }
+      ],
+      "hint": "Considérez le lien entre l'anxiété de dépendance et la micro-gestion."
+    },
+    {
+      "question": "Que révèle le choix d'un partenaire amoureux « inférieur » ou à « sauver » sur le caractère d'un individu ?",
+      "answerOptions": [
+        {
+          "text": "Une grande générosité d'âme et un désintéressement total.",
+          "isCorrect": false,
+          "rationale": "Le texte suggère que ces choix sont rarement intellectuels et cachent des motifs de contrôle."
+        },
+        {
+          "text": "Un besoin de contrôle et une peur profonde de l'abandon héritée de l'enfance.",
+          "isCorrect": true,
+          "rationale": "En choisissant quelqu'un qui a besoin d'eux, ils s'assurent que l'autre ne partira pas, apaisant ainsi leurs insécurités."
+        },
+        {
+          "text": "Une volonté de se conformer aux attentes sociales de la famille.",
+          "isCorrect": false,
+          "rationale": "Ces choix reflètent les schémas d'attachement profonds plutôt que des conventions sociales externes."
+        },
+        {
+          "text": "Une recherche de stimulation intellectuelle par le mentorat.",
+          "isCorrect": false,
+          "rationale": "L'explication est émotionnelle et liée au sentiment de sécurité, non à la pure curiosité intellectuelle."
+        }
+      ],
+      "hint": "Pensez à la logique interne qui vise à minimiser le risque d'être délaissé."
+    },
+    {
+      "question": "Quelle étape est jugée indispensable pour ne plus être « esclave » de son propre caractère ?",
+      "answerOptions": [
+        {
+          "text": "Pratiquer une introspection honnête pour identifier ses schémas répétitifs.",
+          "isCorrect": true,
+          "rationale": "La prise de conscience permet d'atténuer les effets compulsifs et de transformer les faiblesses en forces."
+        },
+        {
+          "text": "Changer d'environnement social et professionnel tous les deux ans.",
+          "isCorrect": false,
+          "rationale": "On emporte son caractère partout avec soi, le changement de décor ne règle pas le problème interne."
+        },
+        {
+          "text": "Suivre scrupuleusement les conseils des personnalités qui ont réussi.",
+          "isCorrect": false,
+          "rationale": "Le texte suggère de suivre sa propre voie correspondant à son caractère plutôt que d'imiter autrui."
+        },
+        {
+          "text": "Réprimer systématiquement toutes les impulsions négatives par la volonté.",
+          "isCorrect": false,
+          "rationale": "La répression ne fonctionne pas car les schémas sont trop profonds ; il faut plutôt les réorienter."
+        }
+      ],
+      "hint": "L'examen de son passé et de ses erreurs récurrentes est la clé."
+    },
+    {
+      "question": "Le « Rebelle absolu » déteste l'autorité principalement parce que :",
+      "answerOptions": [
+        {
+          "text": "Il possède un sens moral supérieur et ne supporte pas l'injustice.",
+          "isCorrect": false,
+          "rationale": "C'est l'image qu'il projette, mais sa motivation réelle est différente."
+        },
+        {
+          "text": "Il a un besoin compulsif de se sentir supérieur et ne peut accepter aucune critique.",
+          "isCorrect": true,
+          "rationale": "Sa haine de l'autorité vient souvent d'une déception parentale et sert à protéger son ego fragile."
+        },
+        {
+          "text": "Il souhaite instaurer un nouveau système politique plus juste.",
+          "isCorrect": false,
+          "rationale": "Le texte le décrit comme un 'éternel adolescent' focalisé sur son propre besoin de snober l'autorité."
+        },
+        {
+          "text": "Il a été formé dans des écoles militaires trop strictes.",
+          "isCorrect": false,
+          "rationale": "Bien que possible, le texte insiste sur la déception vis-à-vis d'une figure d'autorité défaillante dans l'enfance."
+        }
+      ],
+      "hint": "Cherchez le lien entre le refus de la critique et le besoin de supériorité."
+    },
+    {
+      "question": "Quel est le but ultime du « Donneur de leçons » dans ses critiques publiques ?",
+      "answerOptions": [
+        {
+          "text": "Améliorer réellement la société par des actions concrètes.",
+          "isCorrect": false,
+          "rationale": "Le texte souligne que cela ne réclame aucun sacrifice réel, juste des paroles."
+        },
+        {
+          "text": "Réprimer ses propres impulsions coupables en les projetant sur les autres.",
+          "isCorrect": true,
+          "rationale": "Incapable d'accepter la nature humaine, il juge ce qu'il a été forcé de réprimer chez lui enfant."
+        },
+        {
+          "text": "Aider les personnes en difficulté à retrouver un chemin moral.",
+          "isCorrect": false,
+          "rationale": "Il manque d'empathie et s'épanouit dans la condamnation plutôt que dans l'aide."
+        },
+        {
+          "text": "Se faire élire à des postes de haute responsabilité.",
+          "isCorrect": false,
+          "rationale": "S'il peut utiliser sa posture pour le pouvoir, son moteur est la projection de son dégoût de soi."
+        }
+      ],
+      "hint": "Pensez à la lutte interne entre les instincts réprimés et le désir de paraître vertueux."
+    },
+    {
+      "question": "Dans le cas de Richard Nixon, quel incident a révélé le caractère brutal de son chef de cabinet, Haldeman ?",
+      "answerOptions": [
+        {
+          "text": "Une erreur stratégique majeure lors d'une campagne électorale.",
+          "isCorrect": false,
+          "rationale": "Les erreurs stratégiques sont des faits professionnels, pas nécessairement des révélateurs de caractère profond."
+        },
+        {
+          "text": "Une explosion de colère hystérique pour l'indisponibilité d'une simple voiturette de golf.",
+          "isCorrect": true,
+          "rationale": "Le caractère se révèle dans la gestion des petits désagréments quotidiens et le traitement des subalternes."
+        },
+        {
+          "text": "La découverte de documents confidentiels qu'il avait tenté de dissimuler.",
+          "isCorrect": false,
+          "rationale": "Bien que lié à l'affaire Watergate ultérieure, le texte cite l'incident de la voiturette comme signe avant-coureur."
+        },
+        {
+          "text": "Sa démission brutale sans préavis avant une réunion importante.",
+          "isCorrect": false,
+          "rationale": "C'est Nixon qui a été servi par Haldeman, ce dernier était dévoué, mais brutal."
+        }
+      ],
+      "hint": "Cherchez un comportement disproportionné face à une contrariété mineure."
+    },
+    {
+      "question": "Comment l'auteur suggère-t-il de développer un caractère plus souple ?",
+      "answerOptions": [
+        {
+          "text": "En s'entenant rigoureusement à sa routine quotidienne.",
+          "isCorrect": false,
+          "rationale": "La routine fige les circuits neuronaux et renforce les automatismes."
+        },
+        {
+          "text": "En se déstabilisant volontairement en testant des stratégies opposées à ses habitudes.",
+          "isCorrect": true,
+          "rationale": "Faire le contraire de ce que l'on fait habituellement permet de briser la compulsion et de gagner en adaptabilité."
+        },
+        {
+          "text": "En évitant toute source de stress pour garder sa lucidité.",
+          "isCorrect": false,
+          "rationale": "Au contraire, s'habituer au stress par de petits défis renforce le caractère."
+        },
+        {
+          "text": "En étudiant uniquement les réussites des autres pour les copier.",
+          "isCorrect": false,
+          "rationale": "Le caractère supérieur vient de l'utilisation de sa propre 'terre glaise' intérieure."
+        }
+      ],
+      "hint": "Pensez à l'action de sortir délibérément de sa zone de confort comportementale."
+    },
+    {
+      "question": "Quelle est l'illusion commune sur le succès mentionnée dans le texte ?",
+      "answerOptions": [
+        {
+          "text": "Que le succès est purement une question de chance.",
+          "isCorrect": false,
+          "rationale": "L'auteur attribue le succès (ou l'échec) principalement au caractère."
+        },
+        {
+          "text": "Que les personnes qui réussissent sont nécessairement intelligentes et bonnes.",
+          "isCorrect": true,
+          "rationale": "Le succès peut cacher des manipulateurs ou des personnes qui utilisent les autres pour masquer leur incompétence."
+        },
+        {
+          "text": "Que le succès change radicalement le caractère d'une personne.",
+          "isCorrect": false,
+          "rationale": "Le texte affirme que le succès (ou le pouvoir) révèle le caractère au lieu de le changer."
+        },
+        {
+          "text": "Que le succès ne peut être atteint que par des personnalités extraverties.",
+          "isCorrect": false,
+          "rationale": "Les introvertis peuvent aussi réussir par leur créativité et leurs idées neuves."
+        }
+      ],
+      "hint": "Réfléchissez à la tendance humaine à idéaliser ceux qui sont au sommet de la hiérarchie."
+    }
+  ]
+}

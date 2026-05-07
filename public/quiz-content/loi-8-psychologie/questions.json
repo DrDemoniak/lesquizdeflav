@@ -1,0 +1,533 @@
+{
+  "title": "Loi 8 : Changer son État d'Esprit",
+  "description": "Apprenez à identifier vos schémas d'auto-sabotage et transformez votre vision du monde pour passer d'une mentalité de victime à celle de créateur.",
+  "themes": [
+    "La Loi de l'Auto-sabotage",
+    "Psychologie du Mindset (État d'Esprit)",
+    "Étude de Cas : Anton Tchekhov",
+    "Identifier les Schémas Négatifs",
+    "Cultiver une Attitude d'Explorateur"
+  ],
+  "questions": [
+    {
+      "question": "Selon l'introduction de la Loi 8, quelle est la conséquence principale d'un caractère craintif ?",
+      "answerOptions": [
+        {
+          "text": "Il nous pousse à voir le côté négatif de chaque situation et à éviter les risques.",
+          "isCorrect": true,
+          "rationale": "Le texte explique que la peur restreint nos actions et nous fait percevoir le monde comme une menace constante, limitant ainsi nos opportunités."
+        },
+        {
+          "text": "Il nous permet de mieux anticiper les dangers réels pour les éviter.",
+          "isCorrect": false,
+          "rationale": "Bien que cela semble logique, le texte soutient que la peur déforme la réalité au lieu de fournir une analyse objective des risques."
+        },
+        {
+          "text": "Il nous rend plus empathiques envers les souffrances d'autrui.",
+          "isCorrect": false,
+          "rationale": "Le texte associe plutôt la crainte à l'hostilité ou à la méfiance, ce qui tend à éloigner les autres plutôt qu'à créer de l'empathie."
+        },
+        {
+          "text": "Il nous encourage à apprendre de nos erreurs passées pour ne pas les répéter.",
+          "isCorrect": false,
+          "rationale": "Le texte affirme au contraire que les personnes craintives accusent souvent les autres de leurs erreurs et n'en tirent aucune leçon."
+        }
+      ],
+      "hint": "Considérez comment une vision pessimiste influence notre prise de décision et notre perception de l'adversité."
+    },
+    {
+      "question": "Pourquoi le père d'Anton Tchekhov justifiait-il le fait de battre ses enfants ?",
+      "answerOptions": [
+        {
+          "text": "Il considérait que c'était une volonté divine pour leur apprendre l'humilité.",
+          "isCorrect": true,
+          "rationale": "Le texte précise que Pavel Yegorovich voyait les châtiments comme un acte d'amour et une éducation religieuse nécessaire."
+        },
+        {
+          "text": "Il était naturellement méchant et cherchait à évacuer sa frustration.",
+          "isCorrect": false,
+          "rationale": "Le récit souligne que le père ne semblait pas agir par méchanceté visible, mais par conviction éducative erronée."
+        },
+        {
+          "text": "Il voulait les endurcir face à la dureté de la vie à Taganrog.",
+          "isCorrect": false,
+          "rationale": "Bien que la vie soit dure, sa motivation principale était liée à la religion et à sa propre éducation passée."
+        },
+        {
+          "text": "Il craignait qu'ils ne deviennent des délinquants comme les ivrognes de la ville.",
+          "isCorrect": false,
+          "rationale": "C'est un motif plausible, mais le texte se concentre sur l'idée de l'humilité devant Dieu comme raison invoquée par le père."
+        }
+      ],
+      "hint": "Cherchez un motif lié à une autorité supérieure plutôt qu'à une simple colère humaine."
+    },
+    {
+      "question": "Quel changement d'attitude a permis à Anton Tchekhov de transformer sa famille à son arrivée à Moscou ?",
+      "answerOptions": [
+        {
+          "text": "Il a décidé de donner l'exemple par le travail et l'action au lieu de critiquer.",
+          "isCorrect": true,
+          "rationale": "Plutôt que de sermonner ses frères, il a pris en charge les corvées et montré une dignité qui a inspiré les autres."
+        },
+        {
+          "text": "Il a utilisé son autorité de futur médecin pour imposer des règles strictes.",
+          "isCorrect": false,
+          "rationale": "Le texte mentionne qu'il refusait justement de sermonner ou de critiquer ses proches."
+        },
+        {
+          "text": "Il a banni son père de la maison pour protéger sa mère et ses frères.",
+          "isCorrect": false,
+          "rationale": "Au contraire, il a cherché à conserver le noyau familial et a même trouvé un meilleur emploi pour son père."
+        },
+        {
+          "text": "Il a forcé ses frères à s'engager dans l'armée pour leur apprendre la discipline.",
+          "isCorrect": false,
+          "rationale": "Il les a encouragés à retourner à l'école et à cultiver leur esprit par la lecture et la discussion."
+        }
+      ],
+      "hint": "Réfléchissez à l'impact du comportement personnel sur le moral d'un groupe en détresse."
+    },
+    {
+      "question": "Qu'est-ce que l'expérience de Tchekhov sur l'île de Sakhaline lui a apporté sur le plan personnel ?",
+      "answerOptions": [
+        {
+          "text": "Elle lui a permis de sortir de sa dépression en renouant avec une réalité brutale.",
+          "isCorrect": true,
+          "rationale": "Le contact avec les prisonniers et leurs conditions extrêmes a relativisé ses propres soucis et ravivé son empathie."
+        },
+        {
+          "text": "Elle lui a fourni les preuves scientifiques nécessaires pour sa thèse de médecine.",
+          "isCorrect": false,
+          "rationale": "Bien que médecin, son voyage visait principalement à fuir le monde littéraire et à explorer la condition humaine la plus basse."
+        },
+        {
+          "text": "Elle l'a convaincu que la nature humaine est fondamentalement mauvaise et irrécupérable.",
+          "isCorrect": false,
+          "rationale": "L'effet a été l'inverse : il a retrouvé sa générosité et son désir d'agir pour le bien public."
+        },
+        {
+          "text": "Elle lui a permis de trouver un traitement définitif pour sa propre tuberculose.",
+          "isCorrect": false,
+          "rationale": "Son état de santé s'est en réalité aggravé durant ce voyage épuisant de trois mois."
+        }
+      ],
+      "hint": "Pensez à l'effet de la confrontation avec une souffrance plus grande que la sienne."
+    },
+    {
+      "question": "Comment Carl Jung définit-il l'état d'esprit (mindset) ?",
+      "answerOptions": [
+        {
+          "text": "Une disposition du psychisme à agir ou réagir d'une certaine façon.",
+          "isCorrect": true,
+          "rationale": "Cette définition souligne que notre esprit est pré-orienté vers certains types de réponses avant même que l'événement ne se produise."
+        },
+        {
+          "text": "Le résultat final de nos gènes combinés à notre éducation sociale.",
+          "isCorrect": false,
+          "rationale": "C'est une origine possible de l'état d'esprit, mais pas la définition fonctionnelle donnée par Jung."
+        },
+        {
+          "text": "La capacité de l'individu à masquer ses véritables intentions aux autres.",
+          "isCorrect": false,
+          "rationale": "Cela se rapproche de la notion d'Ombre (Shadow) abordée brièvement à la fin, mais pas de la définition de l'état d'esprit."
+        },
+        {
+          "text": "L'ensemble des connaissances objectives accumulées au cours d'une vie.",
+          "isCorrect": false,
+          "rationale": "Le texte insiste sur le fait que l'état d'esprit est subjectif et déforme la perception de la réalité objective."
+        }
+      ],
+      "hint": "Il s'agit d'une préparation interne inconsciente à l'action."
+    },
+    {
+      "question": "Dans l'exemple des deux étudiants à Paris, quelle est la leçon principale concernant la réalité ?",
+      "answerOptions": [
+        {
+          "text": "Le monde n'est ni bon ni mauvais ; nous colorons la réalité selon notre état d'esprit.",
+          "isCorrect": true,
+          "rationale": "L'expérience opposée des deux étudiants montre que les mêmes stimuli produisent des réalités différentes selon la lentille psychologique."
+        },
+        {
+          "text": "Les grandes villes sont intrinsèquement stressantes pour les personnes timides.",
+          "isCorrect": false,
+          "rationale": "C'est une observation sur le personnage, mais la leçon porte sur la subjectivité de l'expérience globale."
+        },
+        {
+          "text": "Apprendre une langue étrangère est le meilleur moyen de changer sa personnalité.",
+          "isCorrect": false,
+          "rationale": "L'apprentissage de la langue est utilisé comme exemple de réaction (peur vs aventure), pas comme cause du changement."
+        },
+        {
+          "text": "La réalité objective est la même pour tous, seule l'expression émotionnelle change.",
+          "isCorrect": false,
+          "rationale": "Le texte affirme précisément le contraire : il n'y a pas deux personnes qui aient la même expérience du monde."
+        }
+      ],
+      "hint": "Considérez si la qualité d'une expérience réside dans l'objet observé ou dans l'observateur."
+    },
+    {
+      "question": "Quel est le comportement typique d'un caractère « Hostile » ?",
+      "answerOptions": [
+        {
+          "text": "Il provoque la frustration chez les autres pour justifier son sentiment d'être persécuté.",
+          "isCorrect": true,
+          "rationale": "En créant des réactions négatives, il confirme sa vision du monde où tout le monde est contre lui."
+        },
+        {
+          "text": "Il évite tout contact social par peur d'être critiqué ou jugé.",
+          "isCorrect": false,
+          "rationale": "Ceci décrit plutôt le caractère 'Fuyant' ou 'Anxieux'."
+        },
+        {
+          "text": "Il cherche à dominer les autres par un amour excessif et étouffant.",
+          "isCorrect": false,
+          "rationale": "C'est une stratégie mentionnée pour le caractère 'Anxieux' cherchant à contrôler son environnement."
+        },
+        {
+          "text": "Il exprime ouvertement ses besoins pour obtenir ce qu'il veut sans détour.",
+          "isCorrect": false,
+          "rationale": "L'hostile utilise des ruses inconscientes (retards, erreurs délibérées) plutôt qu'une communication directe."
+        }
+      ],
+      "hint": "Réfléchissez à la manière dont une personne peut inconsciemment 'saboter' ses relations pour confirmer ses propres biais."
+    },
+    {
+      "question": "Quelle est la peur fondamentale qui motive le caractère « Anxieux » ?",
+      "answerOptions": [
+        {
+          "text": "La peur de perdre le contrôle sur une situation imprévisible.",
+          "isCorrect": true,
+          "rationale": "Pour gérer cette peur, ils restreignent leur monde et tentent de micro-manager les détails et les personnes."
+        },
+        {
+          "text": "La crainte de ne pas être assez aimé ou admiré par ses pairs.",
+          "isCorrect": false,
+          "rationale": "Bien que présente, la motivation centrale est la réduction de l'incertitude par le contrôle."
+        },
+        {
+          "text": "Le sentiment d'être intrinsèquement inutile ou indigne de bonheur.",
+          "isCorrect": false,
+          "rationale": "Ceci est la racine du caractère 'Dépressif', pas nécessairement de l'anxieux."
+        },
+        {
+          "text": "La peur d'être puni par une figure d'autorité divine ou parentale.",
+          "isCorrect": false,
+          "rationale": "C'est une origine possible, mais le comportement adulte se focalise sur le contrôle du présent."
+        }
+      ],
+      "hint": "Pensez à la raison pour laquelle quelqu'un voudrait limiter ses expériences à une zone de confort très étroite."
+    },
+    {
+      "question": "Pourquoi le caractère « Fuyant » évite-t-il souvent de s'engager dans des projets de grande envergure ?",
+      "answerOptions": [
+        {
+          "text": "Pour protéger son estime de soi en évitant toute possibilité de critique ou d'échec.",
+          "isCorrect": true,
+          "rationale": "S'ils n'essaient rien de concret, ils peuvent maintenir l'illusion qu'ils auraient pu réussir dans d'autres circonstances."
+        },
+        {
+          "text": "Parce qu'il considère que l'ambition est une valeur superficielle et méprisable.",
+          "isCorrect": false,
+          "rationale": "Ils utilisent souvent cet argument comme excuse, mais la cause réelle est la peur du jugement."
+        },
+        {
+          "text": "Parce qu'il manque de l'intelligence nécessaire pour mener à bien ces tâches.",
+          "isCorrect": false,
+          "rationale": "Le texte suggère que c'est une insécurité concernant leurs compétences, pas nécessairement une incapacité réelle."
+        },
+        {
+          "text": "À cause d'une fatigue chronique liée à des troubles psychosomatiques réels.",
+          "isCorrect": false,
+          "rationale": "Le texte indique que ces maladies sont souvent des stratégies inconscientes pour quitter un projet au bon moment."
+        }
+      ],
+      "hint": "Analysez le lien entre l'absence d'action et la préservation d'une image de soi idéale."
+    },
+    {
+      "question": "Dans l'exemple de Hans von Bülow, comment sa déprime affectait-elle son entourage ?",
+      "answerOptions": [
+        {
+          "text": "En utilisant ses malheurs pour culpabiliser et blesser subtilement ceux qui l'aimaient.",
+          "isCorrect": true,
+          "rationale": "Ses lettres pleines d'auto-critique étaient perçues par Cosima comme des 'coups de poignard', la rendant responsable de sa détresse."
+        },
+        {
+          "text": "En les inspirant à devenir de meilleurs artistes grâce à sa grande sensibilité.",
+          "isCorrect": false,
+          "rationale": "Bien que Cosima ait voulu le sauver au début, l'effet final a été le retrait et la souffrance."
+        },
+        {
+          "text": "En les forçant à prendre en charge toutes ses responsabilités financières.",
+          "isCorrect": false,
+          "rationale": "Le texte se concentre sur l'impact émotionnel et le sabotage relationnel plutôt que financier."
+        },
+        {
+          "text": "En créant une atmosphère de joie feinte qui masquait sa tristesse intérieure.",
+          "isCorrect": false,
+          "rationale": "Le dépressif mentionné dans le texte a tendance à déprimer les autres en leur présence."
+        }
+      ],
+      "hint": "Réfléchissez à l'usage de la tristesse comme une forme de manipulation ou d'agression passive."
+    },
+    {
+      "question": "Quelle est la caractéristique principale du caractère « Aigri » face à une offense ?",
+      "answerOptions": [
+        {
+          "text": "Il ne réagit pas immédiatement mais rumine la souffrance pour se venger plus tard.",
+          "isCorrect": true,
+          "rationale": "Ils préfèrent maîtriser leurs émotions sur le moment et planifier un acte de sabotage ou une agression passive."
+        },
+        {
+          "text": "Il explose de colère noire pour intimider l'agresseur potentiel.",
+          "isCorrect": false,
+          "rationale": "Ceci est plus proche du type hostile ; l'aigri est plus prudent et contrôlé."
+        },
+        {
+          "text": "Il pardonne facilement pour éviter les conflits qui l'épuisent.",
+          "isCorrect": false,
+          "rationale": "L'aigri n'oublie jamais et voit les injustices comme des affronts personnels constants."
+        },
+        {
+          "text": "Il cherche à comprendre les motivations de l'autre pour apaiser la situation.",
+          "isCorrect": false,
+          "rationale": "Le texte conseille de ne pas tout prendre personnellement pour sortir de cette spirale, suggérant que l'aigri ne le fait pas naturellement."
+        }
+      ],
+      "hint": "Considérez la différence entre une réaction immédiate et une rancœur qui infuse avec le temps."
+    },
+    {
+      "question": "Que signifie adopter une attitude d'« Explorateur » envers le monde ?",
+      "answerOptions": [
+        {
+          "text": "Abandonner ses certitudes pour chercher en permanence de nouvelles idées et perspectives.",
+          "isCorrect": true,
+          "rationale": "L'explorateur privilégie la curiosité sur la conviction et accepte d'être mis au défi par des points de vue contradictoires."
+        },
+        {
+          "text": "Voyager physiquement dans le plus grand nombre de pays possible.",
+          "isCorrect": false,
+          "rationale": "Il s'agit d'une métaphore pour l'ouverture d'esprit, bien que le voyage physique puisse y contribuer."
+        },
+        {
+          "text": "Analyser froidement chaque situation pour en tirer un profit personnel maximal.",
+          "isCorrect": false,
+          "rationale": "L'attitude décrite est empreinte de curiosité enfantine et de connexion au monde, pas de calcul égoïste."
+        },
+        {
+          "text": "S'en tenir à des principes moraux fixes pour naviguer dans l'incertitude.",
+          "isCorrect": false,
+          "rationale": "Le texte dit que les gens s'accrochent à des idées par peur ; l'explorateur, lui, les laisse derrière lui."
+        }
+      ],
+      "hint": "Opposez la rigidité des convictions à la fluidité de la curiosité."
+    },
+    {
+      "question": "Comment l'actrice Joan Crawford a-t-elle géré l'adversité lorsqu'on lui a imposé un rôle qu'elle ne voulait pas ?",
+      "answerOptions": [
+        {
+          "text": "Elle s'est forcée à se passionner pour le sujet afin de transformer ce défi en opportunité de croissance.",
+          "isCorrect": true,
+          "rationale": "En devenant experte en westerns, elle a élargi son talent au lieu de subir la punition de son producteur."
+        },
+        {
+          "text": "Elle a rompu son contrat pour rejoindre un studio concurrent plus respectueux.",
+          "isCorrect": false,
+          "rationale": "Le texte souligne qu'elle a pris sa destinée en main en acceptant et en transcendant le rôle imposé."
+        },
+        {
+          "text": "Elle a utilisé son influence médiatique pour dénoncer le comportement de son producteur.",
+          "isCorrect": false,
+          "rationale": "Son approche a été constructive et axée sur son propre développement professionnel plutôt que sur la vengeance."
+        },
+        {
+          "text": "Elle a accepté le rôle à contrecœur en faisant le minimum de travail nécessaire.",
+          "isCorrect": false,
+          "rationale": "C'est l'attitude typique du caractère renfermé, alors qu'elle a adopté une attitude expansive et énergique."
+        }
+      ],
+      "hint": "Cherchez une réponse montrant une transformation active d'une contrainte en un atout."
+    },
+    {
+      "question": "Quel a été le rôle de la bibliothèque durant l'incarcération de Malcolm X ?",
+      "answerOptions": [
+        {
+          "text": "Elle lui a permis de repenser sa vie et d'acquérir une discipline intellectuelle transformatrice.",
+          "isCorrect": true,
+          "rationale": "L'étude et la lecture ont été les outils qui lui ont permis de changer son état d'esprit face à la vie."
+        },
+        {
+          "text": "Elle lui a servi de refuge pour éviter les conflits avec les autres détenus.",
+          "isCorrect": false,
+          "rationale": "Bien que ce soit un lieu calme, le texte insiste sur le changement profond de perspective et de discipline."
+        },
+        {
+          "text": "Elle lui a permis de préparer son évasion en étudiant les plans de la prison.",
+          "isCorrect": false,
+          "rationale": "L'exemple est utilisé pour illustrer comment transformer une situation d'adversité (la prison) en développement personnel."
+        },
+        {
+          "text": "Elle a été le lieu où il a recruté ses futurs alliés politiques.",
+          "isCorrect": false,
+          "rationale": "Le texte se concentre sur son propre amour de l'apprentissage et sa remise en question personnelle."
+        }
+      ],
+      "hint": "Considérez le savoir non comme une accumulation, mais comme un catalyseur de changement de caractère."
+    },
+    {
+      "question": "Que recommande l'auteur pour gérer les personnes malveillantes ou critiques ?",
+      "answerOptions": [
+        {
+          "text": "Ne pas prendre leurs actions personnellement car elles projettent souvent leurs propres souffrances.",
+          "isCorrect": true,
+          "rationale": "En comprenant que vous êtes une cible pour leurs frustrations accumulées, vous évitez de réagir émotionnellement."
+        },
+        {
+          "text": "Répliquer immédiatement avec la même intensité pour imposer le respect.",
+          "isCorrect": false,
+          "rationale": "L'auteur déconseille de se laisser happer dans des querelles insignifiantes qui alimentent la rancœur."
+        },
+        {
+          "text": "Chercher à les changer en leur montrant tout l'amour qu'ils n'ont pas reçu.",
+          "isCorrect": false,
+          "rationale": "Le texte dit qu'on ne peut pas refaire la nature humaine et qu'il vaut mieux l'accepter comme un phénomène naturel."
+        },
+        {
+          "text": "Couper tout lien social avec toute personne manifestant de la négativité.",
+          "isCorrect": false,
+          "rationale": "Il s'agit plutôt d'adopter une position neutre et tolérante, en considérant les gens comme des 'phénomènes naturels'."
+        }
+      ],
+      "hint": "Pensez à une stratégie de détachement psychologique plutôt que d'affrontement."
+    },
+    {
+      "question": "Comment l'auteur suggère-t-il de considérer les autres êtres humains pour rester positif ?",
+      "answerOptions": [
+        {
+          "text": "Comme des phénomènes naturels variés, au même titre que des fleurs ou des pierres.",
+          "isCorrect": true,
+          "rationale": "Cette neutralité permet d'accepter la diversité des caractères (saints, sociopathes, etc.) sans s'en sentir offensé."
+        },
+        {
+          "text": "Comme des alliés potentiels qu'il faut séduire à tout prix.",
+          "isCorrect": false,
+          "rationale": "Bien que la séduction soit mentionnée comme possible avec un esprit ouvert, l'acceptation neutre est la base recommandée."
+        },
+        {
+          "text": "Comme des miroirs qui nous renvoient uniquement nos propres défauts.",
+          "isCorrect": false,
+          "rationale": "C'est une idée psychologique courante, mais le texte insiste ici sur l'acceptation de la nature propre d'autrui."
+        },
+        {
+          "text": "Comme des êtres supérieurs dont nous devons gagner le respect par l'humilité.",
+          "isCorrect": false,
+          "rationale": "Le texte dénonce la fausse humilité et les 'courbettes' comme des comportements d'esclave à éliminer."
+        }
+      ],
+      "hint": "Cherchez une analogie qui enlève le jugement moral au profit de l'observation objective."
+    },
+    {
+      "question": "Quelle est la vision de l'auteur sur le lien entre l'esprit et la santé physique ?",
+      "answerOptions": [
+        {
+          "text": "Notre état d'esprit affecte nos réponses physiques et peut accélérer la guérison.",
+          "isCorrect": true,
+          "rationale": "Le texte mentionne que l'enthousiasme et la volonté de vivre permettent de puiser dans des réserves d'énergie vitales."
+        },
+        {
+          "text": "La santé dépend uniquement de facteurs génétiques et environnementaux objectifs.",
+          "isCorrect": false,
+          "rationale": "Le texte s'oppose à cette vision en soulignant le rôle de la volonté et de l'état psychologique global."
+        },
+        {
+          "text": "Le sport intense est l'unique moyen de maintenir un état d'esprit positif.",
+          "isCorrect": false,
+          "rationale": "L'activité physique est un complément, mais c'est l'état d'esprit qui gouverne l'ensemble."
+        },
+        {
+          "text": "Les maladies sont des punitions inconscientes que nous nous infligeons systématiquement.",
+          "isCorrect": false,
+          "rationale": "Bien que le sabotage existe, le texte se concentre sur le pouvoir de la volonté pour surmonter la maladie."
+        }
+      ],
+      "hint": "Considérez l'unité du corps et de l'esprit dans le processus de récupération et d'énergie."
+    },
+    {
+      "question": "Que signifie la métaphore de « l'esclave » que Tchekhov extrait de lui « goutte à goutte » ?",
+      "answerOptions": [
+        {
+          "text": "Le processus lent et constant de se libérer des pensées de soumission et de rancœur.",
+          "isCorrect": true,
+          "rationale": "Il s'agit de remplacer le 'sang d'esclave' (mentalité de victime héritée) par un 'vrai sang d'homme' (liberté et responsabilité)."
+        },
+        {
+          "text": "La nécessité de travailler dur physiquement pour racheter sa liberté financière.",
+          "isCorrect": false,
+          "rationale": "La liberté dont il parle est d'abord intérieure et psychologique, même si le travail y participe."
+        },
+        {
+          "text": "L'obligation d'obéir aveuglément aux ordres de ses professeurs pour réussir.",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : il s'agit de ne plus faire de courbettes devant quiconque."
+        },
+        {
+          "text": "L'élimination progressive des membres toxiques de sa propre famille.",
+          "isCorrect": false,
+          "rationale": "Tchekhov a au contraire cherché à sauver et à élever sa famille par son changement d'attitude."
+        }
+      ],
+      "hint": "Pensez à un changement d'identité profonde passant d'une victime à un créateur."
+    },
+    {
+      "question": "Quelle est l'origine fréquente d'un caractère « Dépressif » selon le texte ?",
+      "answerOptions": [
+        {
+          "text": "Un sentiment d'indignité né du manque d'amour parental durant l'enfance.",
+          "isCorrect": true,
+          "rationale": "L'enfant intériorise le manque d'amour comme une preuve qu'il y a quelque chose de mal en lui, conservant l'illusion de parents parfaits."
+        },
+        {
+          "text": "Un excès de succès précoce qui rend la vie adulte fade et sans intérêt.",
+          "isCorrect": false,
+          "rationale": "Le texte lie la dépression au sentiment de ne 'pas mériter' les bonnes choses, issu d'un passé difficile."
+        },
+        {
+          "text": "Une prédisposition biologique qui ne peut être modifiée par la volonté.",
+          "isCorrect": false,
+          "rationale": "Bien que les dispositions génétiques existent, l'auteur soutient que l'état d'esprit est malléable par le travail et l'amour."
+        },
+        {
+          "text": "L'épuisement causé par une trop grande ambition sociale.",
+          "isCorrect": false,
+          "rationale": "La déprime est ici présentée comme un schéma de défense inconscient plutôt que comme un simple surmenage."
+        }
+      ],
+      "hint": "Cherchez une explication basée sur l'interprétation que l'enfant fait de son environnement familial."
+    },
+    {
+      "question": "Dans la Loi 9 (évoquée brièvement), que représente « l'Ombre » (the Shadow) ?",
+      "answerOptions": [
+        {
+          "text": "Le côté obscur composé d'insécurités et de pulsions agressives que nous refoulons.",
+          "isCorrect": true,
+          "rationale": "Il s'agit des traits de caractère que nous masquons derrière une apparence polie mais qui ressurgissent de façon déconcertante."
+        },
+        {
+          "text": "La peur de la mort qui nous suit tout au long de notre existence.",
+          "isCorrect": false,
+          "rationale": "Bien que ce soit un thème chez Tchekhov, l'Ombre désigne spécifiquement les pulsions réprimées."
+        },
+        {
+          "text": "Les ennemis cachés qui cherchent à saboter notre carrière dans l'ombre.",
+          "isCorrect": false,
+          "rationale": "L'Ombre est un concept interne à la personnalité, pas une menace extérieure."
+        },
+        {
+          "text": "Le passé douloureux que nous ne parvenons pas à oublier malgré nos efforts.",
+          "isCorrect": false,
+          "rationale": "Le passé alimente l'Ombre, mais celle-ci est constituée de la partie de nous que nous refusons de voir aujourd'hui."
+        }
+      ],
+      "hint": "Considérez ce qui se cache sous l'apparence vertueuse et affable que nous montrons en société."
+    }
+  ]
+}

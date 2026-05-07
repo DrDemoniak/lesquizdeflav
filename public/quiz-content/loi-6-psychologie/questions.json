@@ -1,0 +1,533 @@
+{
+  "title": "Loi 6 : Élargir son Horizon Temporel",
+  "description": "Apprenez à résister à la tyrannie de l'instant présent et à anticiper les conséquences lointaines de vos décisions.",
+  "themes": [
+    "Vision à Long Terme vs Court Terme",
+    "Psychologie des Foules & Bulles Financières",
+    "L'Effet Cobra & Conséquences Inattendues",
+    "Maîtrise de l'Enfer Tactique",
+    "Sagesse Temporelle & Recul"
+  ],
+  "questions": [
+    {
+      "question": "Quel événement à Paris a déclenché l'inquiétude et la jalousie de John Blunt en $1719$ ?",
+      "answerOptions": [
+        {
+          "text": "Le succès de la Compagnie du Mississippi.",
+          "isCorrect": true,
+          "rationale": "L'ascension fulgurante de la compagnie de John Law en France a poussé Blunt à vouloir créer un modèle financier encore plus ambitieux pour l'Angleterre."
+        },
+        {
+          "text": "L'invention du mot $\\text{millionnaire}$.",
+          "isCorrect": false,
+          "rationale": "Bien que ce terme soit apparu à cette époque, il s'agit d'une conséquence de la richesse générée et non de la cause de l'inquiétude de Blunt."
+        },
+        {
+          "text": "Une déclaration de guerre imminente.",
+          "isCorrect": false,
+          "rationale": "Blunt craignait les conséquences d'une future guerre si la France devenait trop riche, mais c'est le succès économique actuel qui l'a alarmé."
+        },
+        {
+          "text": "La chute de la Banque d'Amsterdam.",
+          "isCorrect": false,
+          "rationale": "Le texte mentionne qu'Amsterdam était une capitale financière, mais ne parle pas de sa chute comme élément déclencheur pour Blunt."
+        }
+      ],
+      "hint": "Considérez l'entreprise rivale dirigée par l'Écossais John Law."
+    },
+    {
+      "question": "Quel était le mécanisme central du plan de Blunt pour la Compagnie de la mer du Sud ?",
+      "answerOptions": [
+        {
+          "text": "Privatiser la dette publique en la convertissant en actions.",
+          "isCorrect": true,
+          "rationale": "Le plan consistait à racheter la dette de l'État contre des intérêts annuels et à permettre aux créanciers d'échanger leurs titres contre des parts de la compagnie."
+        },
+        {
+          "text": "Augmenter massivement le commerce de l'or avec le Pérou.",
+          "isCorrect": false,
+          "rationale": "Le commerce avec l'Amérique du Sud n'était qu'un nom intrigant et une promesse lointaine, car la compagnie n'avait presque aucune activité commerciale réelle."
+        },
+        {
+          "text": "Créer une nouvelle monnaie papier indexée sur la terre.",
+          "isCorrect": false,
+          "rationale": "Blunt s'opposait justement à la gestion traditionnelle par la propriété terrienne, préférant la fluidité des actions boursières."
+        },
+        {
+          "text": "Imposer une taxe sur toutes les transactions financières à Londres.",
+          "isCorrect": false,
+          "rationale": "Au contraire, Blunt vantait le fait que les bénéfices sur les actions étaient exonérés d'impôts pour attirer les investisseurs."
+        }
+      ],
+      "hint": "Réfléchissez à la transformation d'un passif gouvernemental en un actif financier négociable."
+    },
+    {
+      "question": "Pourquoi le roi George $I^{er}$ était-il particulièrement séduit par la proposition de Blunt ?",
+      "answerOptions": [
+        {
+          "text": "Il détestait viscéralement les dettes héritées de ses prédécesseurs.",
+          "isCorrect": true,
+          "rationale": "Le roi percevait la dette comme une charge personnelle insupportable et voyait en Blunt le moyen de s'en débarrasser tout en gagnant la faveur de ses sujets."
+        },
+        {
+          "text": "Il souhaitait financer une nouvelle guerre contre l'Espagne.",
+          "isCorrect": false,
+          "rationale": "Bien que les guerres passées aient causé la dette, l'objectif immédiat du roi était d'assainir les finances, pas d'initier de nouveaux conflits."
+        },
+        {
+          "text": "Il voulait favoriser les investissements dans l'agriculture.",
+          "isCorrect": false,
+          "rationale": "Le projet de Blunt s'éloignait de la richesse terrienne traditionnelle au profit de la spéculation boursière."
+        },
+        {
+          "text": "Il comprenait parfaitement les mécanismes complexes de la finance moderne.",
+          "isCorrect": false,
+          "rationale": "Le texte précise que le jargon financier passait complètement au-dessus de la tête du roi, qui se laissait plutôt guider par l'enthousiasme de Blunt."
+        }
+      ],
+      "hint": "Le monarque avait une réaction presque allergique à un certain fardeau financier de l'État."
+    },
+    {
+      "question": "Quelle erreur Isaac Newton a-t-il commise durant la bulle spéculative ?",
+      "answerOptions": [
+        {
+          "text": "Il a réinvesti une somme massive au sommet de la courbe après avoir d'abord vendu.",
+          "isCorrect": true,
+          "rationale": "Après avoir doublé sa mise initiale, Newton a cédé à la pression sociale et à l'envie, réinvestissant en août $1720$ juste avant l'effondrement."
+        },
+        {
+          "text": "Il a refusé d'acheter des actions dès le début par scepticisme excessif.",
+          "isCorrect": false,
+          "rationale": "Newton a investi dès le départ une somme de $7\\ 000$ livres, montrant qu'il n'était pas resté à l'écart."
+        },
+        {
+          "text": "Il a encouragé Blunt à falsifier les comptes de la compagnie.",
+          "isCorrect": false,
+          "rationale": "Newton était un investisseur victime de la folie collective, non un complice des malversations de Blunt."
+        },
+        {
+          "text": "Il a investi tout son patrimoine dans la Compagnie du Mississippi à Paris.",
+          "isCorrect": false,
+          "rationale": "Le texte se concentre sur ses pertes massives liées à la Compagnie de la mer du Sud à Londres."
+        }
+      ],
+      "hint": "Son esprit logique a fini par céder à la contagion émotionnelle de son entourage."
+    },
+    {
+      "question": "Quel a été l'effet paradoxal du $\\text{Bubble Act}$ de $1720$ ?",
+      "answerOptions": [
+        {
+          "text": "Il a forcé les investisseurs à vendre leurs parts de la mer du Sud pour couvrir leurs pertes.",
+          "isCorrect": true,
+          "rationale": "En rendant les autres compagnies illégales, la loi a provoqué une panique où les gens ont dû liquider leurs meilleures actions pour rembourser leurs dettes, faisant chuter le cours."
+        },
+        {
+          "text": "Il a stabilisé le marché en éliminant la concurrence frauduleuse.",
+          "isCorrect": false,
+          "rationale": "C'était l'intention de Blunt, mais le résultat fut inverse : cela a précipité l'éclatement de la bulle."
+        },
+        {
+          "text": "Il a permis à la Banque d'Angleterre de racheter la dette à bas prix.",
+          "isCorrect": false,
+          "rationale": "La Banque d'Angleterre a failli faire faillite à cause du manque de liquidités provoqué par la panique qui a suivi."
+        },
+        {
+          "text": "Il a encouragé la création de nouvelles entreprises technologiques.",
+          "isCorrect": false,
+          "rationale": "La loi visait précisément à interdire ces nouvelles sociétés par actions non agréées par charte royale."
+        }
+      ],
+      "hint": "Cherchez comment une mesure de protection de la compagnie a fini par l'étouffer."
+    },
+    {
+      "question": "Selon l'interprétation de l'auteur, pourquoi Blunt n'a-t-il pas anticipé la chute inévitable des cours ?",
+      "answerOptions": [
+        {
+          "text": "Son cadre temporel mental s'était rétréci au point de ne voir que le présent immédiat.",
+          "isCorrect": true,
+          "rationale": "Obnubilé par le succès et le pouvoir, Blunt a perdu la capacité de lier ses actes actuels à leurs conséquences futures sur plusieurs mois."
+        },
+        {
+          "text": "Il croyait sincèrement avoir découvert une formule d'alchimie réelle.",
+          "isCorrect": false,
+          "rationale": "Blunt était un homme pragmatique qui utilisait l'illusion de l'alchimie pour séduire le public, mais il agissait par ambition et non par croyance mystique."
+        },
+        {
+          "text": "Il avait prévu de s'enfuir avec l'argent avant l'éclatement.",
+          "isCorrect": false,
+          "rationale": "Le texte montre que Blunt était lui-même pris de panique à la fin, tentant désespérément de maintenir le navire à flot par de nouvelles promesses."
+        },
+        {
+          "text": "Le Parlement lui avait caché des informations cruciales sur la dette.",
+          "isCorrect": false,
+          "rationale": "C'est Blunt qui manipulait le Parlement et les informations, non l'inverse."
+        }
+      ],
+      "hint": "Pensez à l'effet de l'ambition sur la perception de la durée."
+    },
+    {
+      "question": "Que représente la $\\text{partie animale}$ de la nature humaine selon la Loi $6$ ?",
+      "answerOptions": [
+        {
+          "text": "La tendance à réagir instinctivement à ce que l'on voit et entend dans l'instant.",
+          "isCorrect": true,
+          "rationale": "Cette part primitive nous pousse à être marqués par le présent et les tendances immédiates au détriment de la vision à long terme."
+        },
+        {
+          "text": "Le besoin fondamental de sécurité physique et de nourriture.",
+          "isCorrect": false,
+          "rationale": "Bien que ce soit animal, le texte définit spécifiquement cette part comme l'incapacité à voir au-delà du stimulus présent."
+        },
+        {
+          "text": "La capacité de coopérer au sein d'une tribu pour la survie.",
+          "isCorrect": false,
+          "rationale": "Le texte oppose la part animale réactive au potentiel humain supérieur qui est la réflexion stratégique."
+        },
+        {
+          "text": "L'agressivité nécessaire pour dominer ses rivaux en affaires.",
+          "isCorrect": false,
+          "rationale": "L'agressivité est évoquée, mais le point central est le manque de vision temporelle, pas seulement la domination."
+        }
+      ],
+      "hint": "C'est une caractéristique liée à l'étroitesse de la perception temporelle."
+    },
+    {
+      "question": "Quelle métaphore l'auteur utilise-t-il pour décrire l'acquisition de la sagesse face au temps ?",
+      "answerOptions": [
+        {
+          "text": "L'ascension d'une montagne pour obtenir une vue panoramique.",
+          "isCorrect": true,
+          "rationale": "Plus on prend de la hauteur (ou du recul temporel), plus les relations entre les éléments du paysage (les événements) deviennent claires."
+        },
+        {
+          "text": "Le filtrage de l'eau pour éliminer les impuretés.",
+          "isCorrect": false,
+          "rationale": "Cette métaphore n'est pas utilisée ; l'auteur privilégie l'idée de perspective et de distance verticale."
+        },
+        {
+          "text": "La croissance d'un chêne qui résiste aux tempêtes.",
+          "isCorrect": false,
+          "rationale": "L'image de l'arbre est utilisée pour parler de ceux qui ne voient que $\\text{l'arbre qui cache la forêt}$, mais pas pour la sagesse elle-même."
+        },
+        {
+          "text": "Le tissage d'une toile complexe reliant le passé et le futur.",
+          "isCorrect": false,
+          "rationale": "Bien que l'idée de lien existe, la métaphore spatiale de l'altitude est la plus centrale dans le texte."
+        }
+      ],
+      "hint": "Il s'agit d'un changement de perspective physique lié à l'altitude."
+    },
+    {
+      "question": "L'$\\text{effet cobra}$ est une illustration de quel signe de manque de vision ?",
+      "answerOptions": [
+        {
+          "text": "Les conséquences inattendues.",
+          "isCorrect": true,
+          "rationale": "Il décrit comment une solution simple à un problème présent peut aggraver la situation par manque de réflexion sur les motivations réelles des acteurs."
+        },
+        {
+          "text": "L'enfer tactique.",
+          "isCorrect": false,
+          "rationale": "L'enfer tactique concerne l'enlisement dans des micro-combats d'ego, tandis que l'effet cobra concerne les résultats pervers d'une politique."
+        },
+        {
+          "text": "La fièvre de la bande du téléscripteur.",
+          "isCorrect": false,
+          "rationale": "Ce signe concerne l'addiction aux informations en temps réel, pas les conséquences de décisions politiques."
+        },
+        {
+          "text": "Le déni de réalité historique.",
+          "isCorrect": false,
+          "rationale": "Bien que lié, l'effet cobra est l'exemple spécifique des conséquences inverses aux intentions initiales."
+        }
+      ],
+      "hint": "Réfléchissez au décalage entre une intention noble et un résultat désastreux."
+    },
+    {
+      "question": "Quel comportement définit l'$\\text{enfer tactique}$ ?",
+      "answerOptions": [
+        {
+          "text": "Se battre pour prouver que l'on a raison au lieu d'atteindre ses objectifs à long terme.",
+          "isCorrect": true,
+          "rationale": "Dans cet état, l'ego prend le dessus et l'on réagit aux provocations des autres sans prendre le recul nécessaire pour une stratégie globale."
+        },
+        {
+          "text": "Planifier minutieusement chaque étape d'un projet sur dix ans.",
+          "isCorrect": false,
+          "rationale": "C'est l'opposé de l'enfer tactique, qui est une absence de planification à long terme au profit de réactions immédiates."
+        },
+        {
+          "text": "Ignorer les critiques pour rester concentré sur sa vision.",
+          "isCorrect": false,
+          "rationale": "L'enfer tactique implique justement d'être trop absorbé par les interactions et les critiques immédiates."
+        },
+        {
+          "text": "Déléguer toutes les décisions importantes à des subordonnés.",
+          "isCorrect": false,
+          "rationale": "Cela relèverait plutôt d'un manque de contrôle ou d'un autre type de défaillance managériale."
+        }
+      ],
+      "hint": "C'est un piège où l'ego remplace la stratégie."
+    },
+    {
+      "question": "Comment Abraham Lincoln a-t-il résisté à la $\\text{fièvre}$ durant la Guerre civile ?",
+      "answerOptions": [
+        {
+          "text": "En s'appuyant sur son évaluation initiale des ressources et du temps nécessaire.",
+          "isCorrect": true,
+          "rationale": "Malgré les défaites et l'impopularité, il a gardé foi dans le fait que le Nord finirait par l'emporter grâce à sa supériorité en hommes et en matériel."
+        },
+        {
+          "text": "En signant immédiatement un traité de paix après la défaite de $\\text{Bull Run}$.",
+          "isCorrect": false,
+          "rationale": "Au contraire, il a refusé les pressions de ceux qui, comme Greeley, voulaient négocier prématurément."
+        },
+        {
+          "text": "En changeant de stratégie à chaque nouveau sondage d'opinion.",
+          "isCorrect": false,
+          "rationale": "Lincoln a fait preuve d'une inflexibilité remarquable face aux fluctuations de l'opinion publique."
+        },
+        {
+          "text": "En utilisant les dernières technologies de communication pour saturer l'espace médiatique.",
+          "isCorrect": false,
+          "rationale": "Le texte souligne que Lincoln a su $\\text{attendre}$ et $\\text{observer}$, loin de l'agitation immédiate."
+        }
+      ],
+      "hint": "Il a privilégié l'analyse des forces structurelles plutôt que les revers conjoncturels."
+    },
+    {
+      "question": "Quel était le défaut majeur de Philippe $II$ d'Espagne dans sa gestion de l'empire ?",
+      "answerOptions": [
+        {
+          "text": "Il se noyait dans des détails insignifiants en perdant le sens des priorités.",
+          "isCorrect": true,
+          "rationale": "Il passait des jours sur l'emplacement des toilettes ou des formules de politesse, mais négligeait des facteurs critiques comme la météo pour son Armada."
+        },
+        {
+          "text": "Il refusait de lire les rapports de ses espions et de ses généraux.",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : il avait un appétit insatiable de paperasse, mais ne savait pas filtrer l'essentiel du superflu."
+        },
+        {
+          "text": "Il déléguait trop de pouvoir à des courtisans corrompus.",
+          "isCorrect": false,
+          "rationale": "Philippe II voulait au contraire tout contrôler par lui-même, ce qui a causé sa fatigue mentale et son inefficacité."
+        },
+        {
+          "text": "Il prenait des décisions trop rapides sans aucune information.",
+          "isCorrect": false,
+          "rationale": "Il attendait d'avoir compilé d'énormes quantités d'informations, mais elles étaient souvent périmées au moment de l'action."
+        }
+      ],
+      "hint": "Réfléchissez à l'expression $\\text{voir l'arbre qui cache la forêt}$."
+    },
+    {
+      "question": "Pourquoi l'auteur suggère-t-il que la mort est une $\\text{amie}$ pour l'individu clairvoyant ?",
+      "answerOptions": [
+        {
+          "text": "Elle donne un sentiment d'urgence et motive à profiter de chaque instant.",
+          "isCorrect": true,
+          "rationale": "Plutôt que de réprimer l'idée de la finitude, l'utiliser permet de mieux prioriser ses objectifs et de donner du sens au temps qui passe."
+        },
+        {
+          "text": "Elle permet de mettre fin aux souffrances causées par les échecs financiers.",
+          "isCorrect": false,
+          "rationale": "Le texte cite le suicide de Charles Blunt comme une conséquence tragique du manque de vision, pas comme une solution de sagesse."
+        },
+        {
+          "text": "Elle libère l'individu des responsabilités de la vie quotidienne.",
+          "isCorrect": false,
+          "rationale": "La vision clairvoyante vise à mieux gérer sa vie, non à l'abandonner."
+        },
+        {
+          "text": "Elle est le stade final où l'on n'a plus besoin de penser au futur.",
+          "isCorrect": false,
+          "rationale": "L'idée est d'intégrer la conscience de la mort $\\text{dans le présent}$ pour agir avec plus de sagesse."
+        }
+      ],
+      "hint": "Considérez comment la conscience des limites temporelles affecte la motivation."
+    },
+    {
+      "question": "Quel est le premier réflexe à adopter face à un problème pour pratiquer la $\\text{perspective clairvoyante}$ ?",
+      "answerOptions": [
+        {
+          "text": "S'efforcer de ne pas réagir à chaud et tempérer ses émotions.",
+          "isCorrect": true,
+          "rationale": "Le détachement initial est crucial pour rompre le cycle de la réaction animale immédiate et permettre une analyse plus profonde."
+        },
+        {
+          "text": "Demander l'avis de toutes les personnes présentes dans la pièce.",
+          "isCorrect": false,
+          "rationale": "L'opinion des autres est souvent contaminée par la même fièvre réactive que l'on cherche à éviter."
+        },
+        {
+          "text": "Chercher immédiatement la solution la plus simple et la plus rapide.",
+          "isCorrect": false,
+          "rationale": "C'est précisément ce qui mène aux conséquences inattendues et aux $\\text{effets cobra}$."
+        },
+        {
+          "text": "Se concentrer uniquement sur les gains potentiels à court terme.",
+          "isCorrect": false,
+          "rationale": "La perspective clairvoyante exige de regarder les conséquences négatives possibles et les objectifs à long terme."
+        }
+      ],
+      "hint": "C'est une étape de retrait et de refroidissement émotionnel."
+    },
+    {
+      "question": "Quel lien l'auteur établit-il entre le caractère et l'enfance dans la conclusion ?",
+      "answerOptions": [
+        {
+          "text": "Le caractère est fixé tôt, et se sentir connecté à son enfant intérieur renforce l'identité.",
+          "isCorrect": true,
+          "rationale": "Cette connexion organique au passé permet de ne pas se sentir étranger à soi-même malgré les changements superficiels dus au temps."
+        },
+        {
+          "text": "Le caractère change totalement tous les dix ans selon les circonstances.",
+          "isCorrect": false,
+          "rationale": "L'auteur conteste cette vision, affirmant que les changements sont souvent superficiels."
+        },
+        {
+          "text": "L'enfance est une période de folie dont il faut se détacher totalement.",
+          "isCorrect": false,
+          "rationale": "Au contraire, l'individu clairvoyant cultive un lien profond avec ses origines pour maintenir son amour-propre."
+        },
+        {
+          "text": "L'éducation à l'âge adulte peut effacer les traumatismes de l'enfance.",
+          "isCorrect": false,
+          "rationale": "Le texte se concentre sur la continuité du caractère plutôt que sur sa transformation radicale."
+        }
+      ],
+      "hint": "Il s'agit d'une vision de la stabilité de l'identité à travers le temps."
+    },
+    {
+      "question": "Pourquoi la réflexion à court terme est-elle $\\text{préprogrammée}$ dans notre système biologique ?",
+      "answerOptions": [
+        {
+          "text": "Elle était essentielle à la survie de nos ancêtres face aux dangers immédiats.",
+          "isCorrect": true,
+          "rationale": "L'évolution a favorisé les cerveaux capables de repérer instantanément une menace ou une source de nourriture dans un environnement simple."
+        },
+        {
+          "text": "Elle permet une meilleure coordination lors des chasses collectives.",
+          "isCorrect": false,
+          "rationale": "Bien que la coordination soit utile, le texte met l'accent sur la réaction au stimulus dramatique immédiat pour la survie individuelle ou tribale."
+        },
+        {
+          "text": "Elle est le résultat d'un excès de technologie moderne.",
+          "isCorrect": false,
+          "rationale": "La technologie aggrave le problème, mais la tendance est ancrée dans notre capital neurologique primitif."
+        },
+        {
+          "text": "Elle favorise le développement de l'empathie sociale.",
+          "isCorrect": false,
+          "rationale": "Le texte associe plutôt la vision à long terme et le recul à la capacité de développer une véritable empathie."
+        }
+      ],
+      "hint": "Considérez les besoins d'adaptation dans l'environnement de la savane originelle."
+    },
+    {
+      "question": "Quelle action concrète l'auteur conseille-t-il de prendre au sein d'une entreprise pour éviter les erreurs de vision ?",
+      "answerOptions": [
+        {
+          "text": "Désigner une personne responsable de recenser toutes les conséquences négatives possibles.",
+          "isCorrect": true,
+          "rationale": "Avoir un individu dédié au scepticisme ou à la prudence permet de contrebalancer l'enthousiasme collectif aveugle."
+        },
+        {
+          "text": "Réduire le nombre de réunions pour accélérer la prise de décision.",
+          "isCorrect": false,
+          "rationale": "Une décision trop rapide est souvent le signe d'un manque de vision à long terme."
+        },
+        {
+          "text": "Licencier systématiquement ceux qui expriment des doutes sur un projet.",
+          "isCorrect": false,
+          "rationale": "Le texte encourage au contraire à écouter les sceptiques pour bâtir des plans plus solides."
+        },
+        {
+          "text": "Augmenter les bonus basés sur les résultats trimestriels.",
+          "isCorrect": false,
+          "rationale": "Les gratifications immédiates renforcent la pensée à court terme, ce que l'auteur conseille d'éviter."
+        }
+      ],
+      "hint": "Il s'agit d'institutionnaliser un rôle de contre-pouvoir critique."
+    },
+    {
+      "question": "Dans l'exemple de la Rome antique, quel fut le résultat inattendu du meurtre de Jules César ?",
+      "answerOptions": [
+        {
+          "text": "L'établissement définitif d'une monarchie de fait par Octave.",
+          "isCorrect": true,
+          "rationale": "En voulant sauver la République par un assassinat, les conspirateurs ont créé un vide de pouvoir qui a mené exactement à ce qu'ils craignaient."
+        },
+        {
+          "text": "Le retour immédiat à une démocratie stable et apaisée.",
+          "isCorrect": false,
+          "rationale": "Le meurtre a au contraire engendré le chaos et de nouvelles guerres civiles."
+        },
+        {
+          "text": "L'invasion de Rome par les tribus germaniques.",
+          "isCorrect": false,
+          "rationale": "Bien que Rome ait connu des invasions plus tard, ce n'est pas la conséquence directe mentionnée pour cet événement précis."
+        },
+        {
+          "text": "La nomination de Brutus comme dictateur à vie.",
+          "isCorrect": false,
+          "rationale": "Les conspirateurs ont échoué à stabiliser le pouvoir à leur profit après l'acte."
+        }
+      ],
+      "hint": "C'est l'un des exemples les plus célèbres où l'action produit le contraire de l'effet visé."
+    },
+    {
+      "question": "Que signifie la $\\text{fièvre de la bande du téléscripteur}$ dans le contexte moderne ?",
+      "answerOptions": [
+        {
+          "text": "L'addiction aux flux d'actualités et aux réseaux sociaux en temps réel.",
+          "isCorrect": true,
+          "rationale": "Le cliquetis électronique a été remplacé par les notifications incessantes, créant une impatience qui déforme notre jugement."
+        },
+        {
+          "text": "Une maladie tropicale contractée par les traders du $\\text{XIX}^{e}$ siècle.",
+          "isCorrect": false,
+          "rationale": "Le terme est une métaphore psychologique, pas une pathologie médicale réelle."
+        },
+        {
+          "text": "La capacité de prédire les cours de la bourse avec précision.",
+          "isCorrect": false,
+          "rationale": "C'est au contraire une perte de capacité d'analyse au profit d'une réaction émotionnelle au bruit du marché."
+        },
+        {
+          "text": "Le besoin de travailler dans des bureaux bruyants pour être productif.",
+          "isCorrect": false,
+          "rationale": "L'auteur souligne que ce bruit crée une addiction néfaste à l'information immédiate, pas une productivité saine."
+        }
+      ],
+      "hint": "Pensez à l'impact des $\\text{dernières tendances}$ et des notifications sur notre cerveau."
+    },
+    {
+      "question": "Selon le texte, quelle est la réaction humaine face au réchauffement climatique par rapport au terrorisme ?",
+      "answerOptions": [
+        {
+          "text": "Nous ignorons le climat car la douleur est éloignée et abstraite.",
+          "isCorrect": true,
+          "rationale": "Notre cerveau est conçu pour réagir au danger immédiat (le terrorisme), mais peine à se mobiliser contre des menaces futures plus graves mais moins dramatiques visuellement."
+        },
+        {
+          "text": "Nous sommes plus terrifiés par le climat car il menace toute la planète.",
+          "isCorrect": false,
+          "rationale": "L'auteur explique justement que malgré la gravité, le caractère abstrait du danger climatique nous rend moins réactifs."
+        },
+        {
+          "text": "Nous traitons les deux menaces avec la même rigueur scientifique.",
+          "isCorrect": false,
+          "rationale": "Le texte met en évidence un biais émotionnel qui privilégie le présent dramatique."
+        },
+        {
+          "text": "Nous considérons le terrorisme comme un problème purement financier.",
+          "isCorrect": false,
+          "rationale": "Le terrorisme est cité comme l'exemple type de la $\\text{douleur immédiate}$ qui capte toute notre attention."
+        }
+      ],
+      "hint": "Le cerveau humain privilégie le concret immédiat sur l'abstrait futur."
+    }
+  ]
+}

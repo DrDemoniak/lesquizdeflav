@@ -1,0 +1,741 @@
+{
+  "title": "Loi 7 : Briser la Résistance des Autres",
+  "description": "Apprenez à désarmer les défenses d'autrui en validant leur opinion d'eux-mêmes pour mieux les influencer sans conflit.",
+  "themes": [
+    "La Loi de la Défensive",
+    "Opinion de Soi : Les 3 Piliers",
+    "Stratégies d'Influence & Persuasion",
+    "L'Art de l'Écoute & Validation",
+    "Étude de Cas : Lyndon B. Johnson"
+  ],
+  "questions": [
+    {
+      "question": "Lors de sa première rencontre avec Lyndon B. Johnson, quel poste le sénateur Tom Connally propose-t-il au jeune ambitieux ?",
+      "answerOptions": [
+        {
+          "text": "Le comité de l'Agriculture",
+          "isCorrect": true,
+          "rationale": "Connally a proposé ce comité, considéré comme peu prestigieux, pour humilier Johnson et le remettre à sa place."
+        },
+        {
+          "text": "Le comité des Finances",
+          "isCorrect": false,
+          "rationale": "C'est l'un des comités prestigieux que Johnson convoitait mais que Connally lui a refusé."
+        },
+        {
+          "text": "Le comité des Affaires étrangères",
+          "isCorrect": false,
+          "rationale": "C'était l'objectif ambitieux de Johnson, mais Connally a jugé qu'il n'avait pas l'ancienneté nécessaire."
+        },
+        {
+          "text": "Le comité des Services armés",
+          "isCorrect": false,
+          "rationale": "Johnson obtiendra ce siège plus tard sous l'influence de Richard Russell, pas de Connally."
+        }
+      ],
+      "hint": "Il s'agit d'un comité lié à un domaine que Johnson prétendait défendre pour plaire aux fermiers."
+    },
+    {
+      "question": "Selon la Loi de la défensive, quel est le besoin fondamental qui pousse les gens à résister au changement ?",
+      "answerOptions": [
+        {
+          "text": "Le besoin de se sentir autonome",
+          "isCorrect": true,
+          "rationale": "Céder à la persuasion d'autrui est perçu comme une perte d'indépendance, ce qui active nos systèmes de défense."
+        },
+        {
+          "text": "Le désir de supériorité hiérarchique",
+          "isCorrect": false,
+          "rationale": "Bien que le pouvoir soit un facteur, le texte souligne surtout la peur de perdre son libre arbitre."
+        },
+        {
+          "text": "La haine de l'autorité",
+          "isCorrect": false,
+          "rationale": "Il s'agit d'un trait spécifique à certains caractères (les rebelles), mais pas du besoin universel décrit."
+        },
+        {
+          "text": "L'absence de curiosité intellectuelle",
+          "isCorrect": false,
+          "rationale": "La résistance provient moins d'un manque d'intérêt que d'une réaction instinctive de protection de l'ego."
+        }
+      ],
+      "hint": "Considérez le désir humain d'être son propre maître."
+    },
+    {
+      "question": "Quels sont les trois piliers universels de l'opinion de soi décrits dans le texte ?",
+      "answerOptions": [
+        {
+          "text": "Autonomie, intelligence et bonté",
+          "isCorrect": true,
+          "rationale": "Le texte affirme que presque tout le monde a besoin de se voir comme libre de ses choix, malin à sa façon et moralement bon."
+        },
+        {
+          "text": "Richesse, pouvoir et influence",
+          "isCorrect": false,
+          "rationale": "Ces éléments sont des objectifs extérieurs, alors que l'opinion de soi concerne la perception interne de sa propre valeur."
+        },
+        {
+          "text": "Beauté, courage et honnêteté",
+          "isCorrect": false,
+          "rationale": "Bien que valorisées, ces qualités ne sont pas citées comme les trois composantes universelles de l'image de soi."
+        },
+        {
+          "text": "Compétence, résilience et charisme",
+          "isCorrect": false,
+          "rationale": "Ces traits sont des atouts personnels, mais ne forment pas le socle de la perception de soi selon la loi de la défensive."
+        }
+      ],
+      "hint": "Ces trois qualités concernent la volonté propre, les capacités mentales et la moralité."
+    },
+    {
+      "question": "Comment Lyndon B. Johnson a-t-il réussi à gagner la confiance du sénateur Richard Russell ?",
+      "answerOptions": [
+        {
+          "text": "En se présentant comme son disciple et en partageant ses passions",
+          "isCorrect": true,
+          "rationale": "Johnson a feint un intérêt pour le base-ball et la guerre de Sécession pour refléter les valeurs et les goûts de Russell."
+        },
+        {
+          "text": "En le défiant lors d'un vote important au Sénat",
+          "isCorrect": false,
+          "rationale": "Une confrontation directe aurait renforcé la défensive de Russell au lieu de l'atténuer."
+        },
+        {
+          "text": "En lui offrant des cadeaux extravagants venus du Texas",
+          "isCorrect": false,
+          "rationale": "Le texte précise que les gros cadeaux peuvent être perçus comme des tentatives de corruption et nuire à l'indépendance."
+        },
+        {
+          "text": "En critiquant ouvertement les positions de FDR",
+          "isCorrect": false,
+          "rationale": "Russell était puissant mais Johnson utilisait l'admiration pour FDR pour séduire les libéraux comme Humphrey."
+        }
+      ],
+      "hint": "Il a utilisé une technique de miroir pour combler la solitude du vieux sénateur."
+    },
+    {
+      "question": "Dans le cadre d'une écoute attentive, quel est le ratio de parole suggéré entre vous et votre interlocuteur ?",
+      "answerOptions": [
+        {
+          "text": "L'interlocuteur doit parler environ $80 \\%$ du temps",
+          "isCorrect": true,
+          "rationale": "Laisser l'autre être la vedette permet d'abaisser ses gardes et de collecter des informations précieuses."
+        },
+        {
+          "text": "Chaque personne doit parler $50 \\%$ du temps",
+          "isCorrect": false,
+          "rationale": "Un équilibre parfait ne permet pas à l'autre de se sentir suffisamment validé et écouté."
+        },
+        {
+          "text": "Vous devez parler $70 \\%$ du temps pour diriger",
+          "isCorrect": false,
+          "rationale": "Trop parler focalise l'attention sur vos intérêts et active la résistance de l'interlocuteur."
+        },
+        {
+          "text": "Le silence doit occuper $90 \\%$ de la rencontre",
+          "isCorrect": false,
+          "rationale": "Un silence trop long peut devenir gênant ; l'échange doit rester dynamique même si vous parlez peu."
+        }
+      ],
+      "hint": "L'autre personne doit être la vedette principale de la conversation."
+    },
+    {
+      "question": "Pourquoi Johnson a-t-il approché le sénateur libéral Hubert Humphrey alors qu'il était lui-même soutenu par les conservateurs ?",
+      "answerOptions": [
+        {
+          "text": "Pour créer un pont vers les libéraux du Nord et étendre son influence",
+          "isCorrect": true,
+          "rationale": "En gagnant Humphrey, Johnson s'assurait un allié dans un camp qui lui était initialement hostile."
+        },
+        {
+          "text": "Parce qu'ils étaient d'accord sur toutes les procédures sénatoriales",
+          "isCorrect": false,
+          "rationale": "Au contraire, Humphrey critiquait la lenteur de l'institution, ce qui l'avait marginalisé."
+        },
+        {
+          "text": "Pour lui demander de l'argent pour sa campagne présidentielle",
+          "isCorrect": false,
+          "rationale": "Johnson a agi stratégiquement pour le pouvoir au Sénat, pas pour un besoin financier immédiat."
+        },
+        {
+          "text": "Parce que Humphrey était le leader incontesté des 'Old Bulls'",
+          "isCorrect": false,
+          "rationale": "C'est Richard Russell qui était le leader des conservateurs sudistes, pas Humphrey."
+        }
+      ],
+      "hint": "Considérez le besoin de Johnson de ne pas être limité à une seule faction du parti."
+    },
+    {
+      "question": "Quelle leçon Tom Sawyer donne-t-il sur la persuasion en faisant peindre sa palissade par ses amis ?",
+      "answerOptions": [
+        {
+          "text": "Il faut présenter la tâche comme une opportunité rare et valorisante",
+          "isCorrect": true,
+          "rationale": "En feignant l'enthousiasme, Tom a fait croire à ses amis que peindre était un privilège plutôt qu'une corvée."
+        },
+        {
+          "text": "Il faut utiliser la force pour obtenir l'obéissance",
+          "isCorrect": false,
+          "rationale": "La force crée du ressentiment, alors que Tom a fait en sorte que ses amis le supplient de travailler."
+        },
+        {
+          "text": "L'honnêteté sur la pénibilité du travail est la meilleure politique",
+          "isCorrect": false,
+          "rationale": "S'il avait été honnête sur l'ennui de la tâche, personne ne l'aurait aidé."
+        },
+        {
+          "text": "Il faut payer généreusement pour chaque service rendu",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : ce sont ses amis qui ont fini par lui donner des jouets pour avoir le droit de peindre."
+        }
+      ],
+      "hint": "Pensez à la manière de transformer une contrainte en un défi désirable."
+    },
+    {
+      "question": "Quelle stratégie Billy Wilder a-t-il utilisée pour convaincre Marlene Dietrich d'accepter un rôle qu'elle refusait ?",
+      "answerOptions": [
+        {
+          "text": "Il a éveillé son instinct de compétition en montrant de mauvaises auditions",
+          "isCorrect": true,
+          "rationale": "En lui demandant conseil sur d'autres actrices médiocres, il l'a poussée à vouloir prouver sa propre supériorité."
+        },
+        {
+          "text": "Il a augmenté son cachet de manière démesurée",
+          "isCorrect": false,
+          "rationale": "L'argent n'était pas le levier principal ici, mais plutôt l'orgueil professionnel de l'actrice."
+        },
+        {
+          "text": "Il l'a menacée de ne plus jamais travailler avec elle",
+          "isCorrect": false,
+          "rationale": "La menace renforce la défensive ; Wilder a été beaucoup plus subtil et indirect."
+        },
+        {
+          "text": "Il a modifié le scénario pour supprimer les références nazies",
+          "isCorrect": false,
+          "rationale": "Le rôle est resté le même, c'est la perception de Dietrich qui a été manipulée."
+        }
+      ],
+      "hint": "Il a utilisé une méthode indirecte impliquant d'autres actrices."
+    },
+    {
+      "question": "Que suggère Benjamin Disraeli pour conquérir le cœur d'un homme ?",
+      "answerOptions": [
+        {
+          "text": "Le laisser réfuter vos propres arguments",
+          "isCorrect": true,
+          "rationale": "Cela flatte son intelligence et lui donne un sentiment de supériorité, le rendant plus malléable."
+        },
+        {
+          "text": "Lui prouver qu'il a tort par une logique implacable",
+          "isCorrect": false,
+          "rationale": "Prouver à quelqu'un qu'il a tort est le meilleur moyen de le braquer définitivement."
+        },
+        {
+          "text": "Lui offrir des conseils non sollicités",
+          "isCorrect": false,
+          "rationale": "Les gens détestent recevoir des conseils qui remettent en cause leur autonomie."
+        },
+        {
+          "text": "Ignorer ses opinions pour imposer les vôtres",
+          "isCorrect": false,
+          "rationale": "L'indifférence ou l'arrogance ferment l'esprit de l'interlocuteur au lieu de l'ouvrir."
+        }
+      ],
+      "hint": "Il s'agit de donner à l'autre l'impression d'être intellectuellement victorieux."
+    },
+    {
+      "question": "Pourquoi Socrate était-il considéré comme l'homme le plus sage d'Athènes par l'oracle de Delphes ?",
+      "answerOptions": [
+        {
+          "text": "Parce qu'il avait conscience de sa propre ignorance",
+          "isCorrect": true,
+          "rationale": "Contrairement aux experts qui pensaient tout savoir, Socrate examinait sans cesse ses propres limites mentales."
+        },
+        {
+          "text": "Parce qu'il avait mémorisé tous les textes de loi",
+          "isCorrect": false,
+          "rationale": "La sagesse de Socrate résidait dans sa méthode de questionnement, pas dans une accumulation de faits."
+        },
+        {
+          "text": "Parce qu'il ne se trompait jamais dans ses prédictions",
+          "isCorrect": false,
+          "rationale": "Socrate ne cherchait pas à prédire l'avenir mais à comprendre la nature humaine par l'examen."
+        },
+        {
+          "text": "Parce qu'il était le plus riche conseiller de la cité",
+          "isCorrect": false,
+          "rationale": "Socrate vivait modestement et sa richesse était purement intellectuelle et philosophique."
+        }
+      ],
+      "hint": "Sa sagesse venait d'une forme d'humilité intellectuelle radicale."
+    },
+    {
+      "question": "Quelle est l'astuce de Johnson concernant l'alcool lors de ses réunions dans son bureau ?",
+      "answerOptions": [
+        {
+          "text": "Il diluait fortement ses propres verres avec de l'eau",
+          "isCorrect": true,
+          "rationale": "Cela lui permettait de rester lucide pendant que ses interlocuteurs perdaient leurs inhibitions et leurs défenses."
+        },
+        {
+          "text": "Il interdisait toute consommation d'alcool pour rester sérieux",
+          "isCorrect": false,
+          "rationale": "Au contraire, l'alcool servait à créer une atmosphère détendue et conviviale de club."
+        },
+        {
+          "text": "Il utilisait du vin de très mauvaise qualité pour tester les gens",
+          "isCorrect": false,
+          "rationale": "Johnson cherchait à plaire et à mettre à l'aise, pas à offenser ses invités."
+        },
+        {
+          "text": "Il buvait plus que ses invités pour prouver sa force",
+          "isCorrect": false,
+          "rationale": "Boire excessivement lui aurait fait perdre le contrôle stratégique de la situation."
+        }
+      ],
+      "hint": "Il s'agit d'une technique pour garder le contrôle de son esprit tout en paraissant participer."
+    },
+    {
+      "question": "Selon le texte, pourquoi ne faut-il pas rappeler à quelqu'un les faveurs qu'on lui a rendues par le passé ?",
+      "answerOptions": [
+        {
+          "text": "Cela lui rappelle sa dépendance et blesse son sentiment d'autonomie",
+          "isCorrect": true,
+          "rationale": "La gratitude forcée est pesante ; les gens préfèrent se sentir généreux de leur propre chef."
+        },
+        {
+          "text": "Parce que les gens oublient généralement tout après une semaine",
+          "isCorrect": false,
+          "rationale": "Ils n'oublient pas forcément, mais ils n'aiment pas qu'on utilise leur passé contre eux comme une dette."
+        },
+        {
+          "text": "Cela vous fait paraître trop riche et arrogant",
+          "isCorrect": false,
+          "rationale": "Le problème n'est pas votre richesse mais la pression psychologique exercée sur l'autre."
+        },
+        {
+          "text": "Parce que la loi interdit de réclamer des dettes morales",
+          "isCorrect": false,
+          "rationale": "Il s'agit d'une règle psychologique de manipulation, pas d'une contrainte juridique."
+        }
+      ],
+      "hint": "Considérez comment la gratitude affecte le besoin d'indépendance de l'individu."
+    },
+    {
+      "question": "En quoi consiste le 'judo mental' appliqué à la persuasion ?",
+      "answerOptions": [
+        {
+          "text": "Utiliser l'énergie de résistance de l'autre pour le guider où l'on veut",
+          "isCorrect": true,
+          "rationale": "Au lieu de contrer l'opposition, on l'encourage pour que l'individu finisse par céder de lui-même."
+        },
+        {
+          "text": "Hypnotiser l'adversaire par des mouvements oculaires",
+          "isCorrect": false,
+          "rationale": "Il ne s'agit pas d'hypnose physique mais d'une stratégie de redirection psychologique."
+        },
+        {
+          "text": "Attaquer les points faibles physiques de l'interlocuteur",
+          "isCorrect": false,
+          "rationale": "La méthode est purement verbale et comportementale, sans aucune violence."
+        },
+        {
+          "text": "Ignorer totalement les arguments de l'autre pour le fatiguer",
+          "isCorrect": false,
+          "rationale": "Ignorer l'autre renforce sa colère, alors que le judo mental nécessite d'écouter et de rediriger."
+        }
+      ],
+      "hint": "C'est une technique qui utilise la force de l'opposant contre lui-même."
+    },
+    {
+      "question": "Dans l'exemple de Milton Erickson, comment a-t-il sauvé le mariage du couple qui voulait divorcer ?",
+      "answerOptions": [
+        {
+          "text": "En leur suggérant un dernier baiser et une dernière nuit 'amicaux'",
+          "isCorrect": true,
+          "rationale": "En utilisant le langage du mari ('amical'), il a secrètement facilité leur réconciliation physique."
+        },
+        {
+          "text": "En les forçant à lire la Bible ensemble toute la nuit",
+          "isCorrect": false,
+          "rationale": "C'était leur rigidité religieuse qui posait problème ; Erickson a dû contourner cet obstacle."
+        },
+        {
+          "text": "En leur disant que le divorce était un péché mortel",
+          "isCorrect": false,
+          "rationale": "Cela aurait été un argument direct qui aurait pu braquer leur désir d'autonomie."
+        },
+        {
+          "text": "En leur proposant de trouver de nouveaux partenaires immédiatement",
+          "isCorrect": false,
+          "rationale": "Une telle proposition aurait été trop brutale pour ce couple aux valeurs conservatrices."
+        }
+      ],
+      "hint": "Il a utilisé le terme même employé par le mari pour masquer sa manœuvre de séduction."
+    },
+    {
+      "question": "Quelle est la recommandation de Lord Chesterfield pour flatter une personne puissante comme le cardinal de Richelieu ?",
+      "answerOptions": [
+        {
+          "text": "Le féliciter pour ses talents de poète plutôt que de ministre",
+          "isCorrect": true,
+          "rationale": "Richelieu doutait de ses talents littéraires ; le rassurer là où il était incertain était bien plus efficace."
+        },
+        {
+          "text": "Vanter sa grande intelligence politique",
+          "isCorrect": false,
+          "rationale": "Il savait déjà qu'il était un grand ministre ; cette flatterie aurait eu peu d'impact sur son ego."
+        },
+        {
+          "text": "Lui offrir des terres pour étendre son domaine",
+          "isCorrect": false,
+          "rationale": "La flatterie stratégique porte sur les qualités morales ou artistiques, pas sur les possessions matérielles."
+        },
+        {
+          "text": "Comparer son pouvoir à celui d'un roi",
+          "isCorrect": false,
+          "rationale": "C'est une flatterie trop évidente qui peut éveiller la méfiance de quelqu'un de machiavélique."
+        }
+      ],
+      "hint": "Il faut cibler le domaine où la personne manque de confiance en elle."
+    },
+    {
+      "question": "Pourquoi est-il conseillé de féliciter les gens pour leurs efforts plutôt que pour leur talent inné ?",
+      "answerOptions": [
+        {
+          "text": "Cela valorise leur travail et leur mérite personnel",
+          "isCorrect": true,
+          "rationale": "Les gens préfèrent penser qu'ils ont gagné leur succès par leur volonté plutôt que par simple chance génétique."
+        },
+        {
+          "text": "Parce que le talent n'existe pas réellement selon la science",
+          "isCorrect": false,
+          "rationale": "Le texte ne nie pas le talent, mais souligne la préférence psychologique pour la reconnaissance de l'effort."
+        },
+        {
+          "text": "Parce que les efforts sont plus faciles à mesurer que le talent",
+          "isCorrect": false,
+          "rationale": "La raison est liée à l'opinion de soi et au besoin de se sentir acteur de sa réussite."
+        },
+        {
+          "text": "Pour les encourager à travailler encore plus dur sans augmentation",
+          "isCorrect": false,
+          "rationale": "Bien que cela puisse être un effet secondaire, l'objectif ici est de baisser la garde de l'autre par la validation."
+        }
+      ],
+      "hint": "Pensez à ce qui flatte le plus la fierté de quelqu'un qui a réussi."
+    },
+    {
+      "question": "Quelle attitude Friedrich Nietzsche suggère-t-il d'adopter face à une nouveauté choquante pour mieux la connaître ?",
+      "answerOptions": [
+        {
+          "text": "L'accueillir avec tout l'amour possible et suspendre sa critique",
+          "isCorrect": true,
+          "rationale": "Cette 'suspension du pendule critique' permet de pénétrer au cœur d'une idée avant de la juger plus tard."
+        },
+        {
+          "text": "L'analyser immédiatement pour y trouver des erreurs",
+          "isCorrect": false,
+          "rationale": "Une analyse critique immédiate empêche de comprendre l'essence ou 'l'âme' de la chose."
+        },
+        {
+          "text": "La comparer systématiquement à ses propres valeurs",
+          "isCorrect": false,
+          "rationale": "Cela revient à rester enfermé dans son opinion de soi au lieu de s'ouvrir à l'influence."
+        },
+        {
+          "text": "L'ignorer si elle ne correspond pas à ses préjugés",
+          "isCorrect": false,
+          "rationale": "L'ignorance est le contraire de la flexibilité mentale prônée par Nietzsche pour l'apprentissage."
+        }
+      ],
+      "hint": "Il s'agit d'une forme de générosité intellectuelle temporaire."
+    },
+    {
+      "question": "Dans l'exemple du maître zen Bassui, pourquoi s'est-il présenté ivre à un débat ?",
+      "answerOptions": [
+        {
+          "text": "Pour montrer que les règles ne sont que des recommandations",
+          "isCorrect": true,
+          "rationale": "Il voulait démontrer sa liberté et empêcher ses moines d'avoir un esprit trop littéral et rigide."
+        },
+        {
+          "text": "Parce qu'il avait oublié ses propres interdictions",
+          "isCorrect": false,
+          "rationale": "Bassui était un maître conscient ; son acte était une leçon délibérée de flexibilité."
+        },
+        {
+          "text": "Pour prouver que l'alcool aide à la méditation",
+          "isCorrect": false,
+          "rationale": "L'alcool était strictement interdit dans son temple ; son geste était une transgression pédagogique."
+        },
+        {
+          "text": "Parce qu'il était désespéré par le manque de discipline de ses moines",
+          "isCorrect": false,
+          "rationale": "Son intention était de les surprendre et de briser leur rigidité mentale, pas d'exprimer son désespoir."
+        }
+      ],
+      "hint": "Il a agi ainsi pour briser l'attachement excessif aux règlements."
+    },
+    {
+      "question": "Que signifie avoir une 'distance ironique' vis-à-vis de sa propre opinion de soi ?",
+      "answerOptions": [
+        {
+          "text": "Reconnaître qu'on n'est pas aussi parfait ou autonome qu'on l'imagine",
+          "isCorrect": true,
+          "rationale": "Cela permet de rester humble et ouvert aux influences extérieures sans être prisonnier de son ego."
+        },
+        {
+          "text": "Se moquer constamment des autres pour se sentir mieux",
+          "isCorrect": false,
+          "rationale": "C'est l'inverse : l'ironie doit être tournée vers soi-même pour gagner en flexibilité."
+        },
+        {
+          "text": "Faire semblant d'être humble pour mieux manipuler",
+          "isCorrect": false,
+          "rationale": "Ici, il s'agit d'un travail sur soi pour améliorer sa propre nature humaine, pas d'un simple masque."
+        },
+        {
+          "text": "Supprimer toute émotion pour devenir un pur logicien",
+          "isCorrect": false,
+          "rationale": "L'ironie demande une certaine sensibilité émotionnelle vis-à-vis de ses propres failles."
+        }
+      ],
+      "hint": "C'est une forme de lucidité sur ses propres limites et contradictions."
+    },
+    {
+      "question": "Selon la Loi de l'auto-sabotage (Loi 8), qu'est-ce qui détermine en grande partie ce qui nous arrive dans la vie ?",
+      "answerOptions": [
+        {
+          "text": "Notre caractère et notre façon de voir le monde",
+          "isCorrect": true,
+          "rationale": "Un caractère craintif ou hostile crée des situations négatives qui confirment nos peurs initiales."
+        },
+        {
+          "text": "La chance pure et les coïncidences",
+          "isCorrect": false,
+          "rationale": "Le texte suggère que nous façonnons notre réalité par nos interprétations et nos attitudes."
+        },
+        {
+          "text": "Le montant d'argent accumulé durant la jeunesse",
+          "isCorrect": false,
+          "rationale": "La loi 8 se focalise sur la psychologie interne plutôt que sur les ressources matérielles."
+        },
+        {
+          "text": "Le niveau d'études atteint à l'âge adulte",
+          "isCorrect": false,
+          "rationale": "L'intelligence académique ne protège pas de l'auto-sabotage si le caractère reste négatif."
+        }
+      ],
+      "hint": "Pensez à l'influence de votre attitude intérieure sur les événements extérieurs."
+    },
+    {
+      "question": "Quel effet a un léger contact physique (main sur le bras) lors d'une interaction selon les études citées ?",
+      "answerOptions": [
+        {
+          "text": "Il incite l'interlocuteur à avoir une opinion positive de vous",
+          "isCorrect": true,
+          "rationale": "Ce geste crée un lien viscéral chaleureux, souvent de manière inconsciente pour la cible."
+        },
+        {
+          "text": "Il provoque une réaction de défense immédiate",
+          "isCorrect": false,
+          "rationale": "Tant qu'il n'est pas agressif ou déplacé, il a généralement un effet relaxant et connecteur."
+        },
+        {
+          "text": "Il permet de voler le portefeuille de la personne",
+          "isCorrect": false,
+          "rationale": "Cette option est hors sujet par rapport aux techniques de persuasion sociale décrites."
+        },
+        {
+          "text": "Il réduit la pression artérielle de l'agresseur",
+          "isCorrect": false,
+          "rationale": "L'effet décrit concerne la perception de l'autre envers vous, pas votre propre physiologie."
+        }
+      ],
+      "hint": "C'est un outil non verbal pour établir une connexion positive."
+    },
+    {
+      "question": "Pourquoi Johnson a-t-il aidé Richard Russell à moderniser son équipe de travail ?",
+      "answerOptions": [
+        {
+          "text": "Pour lui faire une faveur sans rien demander en retour immédiatement",
+          "isCorrect": true,
+          "rationale": "En rendant Russell dépendant de son efficacité, Johnson a renforcé leur lien sans paraître intéressé."
+        },
+        {
+          "text": "Parce qu'il détestait voir du travail mal fait",
+          "isCorrect": false,
+          "rationale": "Ses motivations étaient purement stratégiques et visaient à gagner l'influence de Russell."
+        },
+        {
+          "text": "Pour prouver au Sénat que Russell était devenu trop vieux",
+          "isCorrect": false,
+          "rationale": "Au contraire, il a tout fait pour que Russell se sente puissant et respecté."
+        },
+        {
+          "text": "Parce que c'était une condition imposée par le Président Eisenhower",
+          "isCorrect": false,
+          "rationale": "Cette manœuvre a eu lieu bien avant l'élection d'Eisenhower et était une initiative personnelle de Johnson."
+        }
+      ],
+      "hint": "C'est une application de la stratégie consistant à rendre service pour créer une dette invisible."
+    },
+    {
+      "question": "Comment Beaumarchais a-t-il convaincu les censeurs de laisser passer 'Le Mariage de Figaro' ?",
+      "answerOptions": [
+        {
+          "text": "En laissant les aristocrates suggérer des changements mineurs",
+          "isCorrect": true,
+          "rationale": "En flattant leur ego et leur intelligence par de petites corrections, il en a fait ses défenseurs contre le roi."
+        },
+        {
+          "text": "En soudoyant les ministres de Louis XVI",
+          "isCorrect": false,
+          "rationale": "La corruption n'est pas mentionnée ; c'est l'influence psychologique et la flatterie qui ont fonctionné."
+        },
+        {
+          "text": "En publiant la pièce secrètement en Angleterre",
+          "isCorrect": false,
+          "rationale": "Il a agi au sein de la cour pour obtenir une autorisation officielle par la pression sociale."
+        },
+        {
+          "text": "En menaçant de s'exiler si la pièce n'était pas jouée",
+          "isCorrect": false,
+          "rationale": "Beaumarchais était un courtisan habile qui préférait la séduction à la confrontation directe."
+        }
+      ],
+      "hint": "Il a utilisé la vanité de ses auditeurs pour les rallier à sa cause."
+    },
+    {
+      "question": "Quelle est l'attitude à adopter face à quelqu'un qui a une basse opinion de soi ?",
+      "answerOptions": [
+        {
+          "text": "Se montrer compatissant envers ses difficultés et ses injustices",
+          "isCorrect": true,
+          "rationale": "Confirmer sa vision du monde ('le monde est dur') permet de l'accepter avant d'essayer de l'influencer."
+        },
+        {
+          "text": "Lui dire que sa vie est merveilleuse pour le remonter",
+          "isCorrect": false,
+          "rationale": "Cela contredit son opinion de soi et le poussera à résister à votre optimisme 'irréaliste'."
+        },
+        {
+          "text": "Le flatter de manière outrancière sur ses succès",
+          "isCorrect": false,
+          "rationale": "La flatterie sonne faux pour quelqu'un qui pense ne rien valoir, créant de la méfiance."
+        },
+        {
+          "text": "L'ignorer jusqu'à ce qu'il reprenne confiance",
+          "isCorrect": false,
+          "rationale": "L'indifférence ne permet pas d'établir l'influence nécessaire pour changer la situation."
+        }
+      ],
+      "hint": "Vous devez valider sa perception négative pour qu'il baisse sa garde."
+    },
+    {
+      "question": "Quelle métaphore Marie de Vionnet (Henry James) utilise-t-elle pour séduire Lambert Strether ?",
+      "answerOptions": [
+        {
+          "text": "Elle se comporte comme une figure maternelle idéale",
+          "isCorrect": true,
+          "rationale": "Son empathie et sa douceur inconditionnelle exercent un pouvoir hypnotique sur Strether."
+        },
+        {
+          "text": "Elle agit comme un général d'armée autoritaire",
+          "isCorrect": false,
+          "rationale": "L'autorité active la défensive, alors que Marie de Vionnet utilise la soumission apparente."
+        },
+        {
+          "text": "Elle se présente comme une femme d'affaires impitoyable",
+          "isCorrect": false,
+          "rationale": "La dureté n'est pas le levier utilisé ici pour charmer l'Américain."
+        },
+        {
+          "text": "Elle joue le rôle d'une enfant perdue",
+          "isCorrect": false,
+          "rationale": "Le texte parle de sa 'magnifique douceur consciente', signe d'une maturité séductrice."
+        }
+      ],
+      "hint": "Pensez à une relation protectrice et acceptante qui ne juge jamais."
+    },
+    {
+      "question": "Dans l'histoire du prêteur sur gages et du maître Hakuin, quel levier a été utilisé pour amener le père à prier ?",
+      "answerOptions": [
+        {
+          "text": "Sa cupidité en le payant pour chaque prière",
+          "isCorrect": true,
+          "rationale": "Hakuin a transformé la prière en un échange commercial, s'adaptant à la nature rigide et avare de l'homme."
+        },
+        {
+          "text": "Sa peur de l'enfer bouddhiste",
+          "isCorrect": false,
+          "rationale": "L'homme prétendait être trop occupé par ses comptes pour se soucier de spiritualité."
+        },
+        {
+          "text": "Son amour pour son fils",
+          "isCorrect": false,
+          "rationale": "Bien que le fils ait initié la démarche, c'est l'argent qui a réellement convaincu le père de commencer."
+        },
+        {
+          "text": "Une menace d'excommunication du village",
+          "isCorrect": false,
+          "rationale": "Hakuin a utilisé la psychologie positive et l'intérêt personnel plutôt que la coercition."
+        }
+      ],
+      "hint": "Le maître zen a utilisé le principal défaut de l'homme comme moteur."
+    },
+    {
+      "question": "Que recommande le texte pour dissimuler ses ambitions lors d'une campagne d'influence ?",
+      "answerOptions": [
+        {
+          "text": "Prendre une position d'infériorité et demander conseil",
+          "isCorrect": true,
+          "rationale": "Paraître inoffensif et désireux d'apprendre permet d'observer les autres sans les effrayer."
+        },
+        {
+          "text": "Proclamer haut et fort ses intentions honnêtes",
+          "isCorrect": false,
+          "rationale": "Une trop grande franchise peut être perçue comme une manipulation grossière ou une menace."
+        },
+        {
+          "text": "Éliminer physiquement tous ses rivaux",
+          "isCorrect": false,
+          "rationale": "Le texte prône une approche psychologique et sociale, pas la violence."
+        },
+        {
+          "text": "Changer de nom et d'apparence régulièrement",
+          "isCorrect": false,
+          "rationale": "La stratégie repose sur la construction d'une réputation de personne respectueuse, pas sur l'anonymat."
+        }
+      ],
+      "hint": "Il s'agit de se mettre en retrait pour mieux observer."
+    },
+    {
+      "question": "Quel était le surnom de Lyndon B. Johnson par autodérision après son élection serrée ?",
+      "answerOptions": [
+        {
+          "text": "Lyndon le raz-de-marée",
+          "isCorrect": true,
+          "rationale": "Il utilisait ce nom pour rire de sa victoire de justesse, ce qui le rendait plus sympathique et moins arrogant."
+        },
+        {
+          "text": "Le Vieux Maître",
+          "isCorrect": false,
+          "rationale": "C'est le nom que Johnson donnait à Richard Russell pour le flatter."
+        },
+        {
+          "text": "L'Ami des Fermiers",
+          "isCorrect": false,
+          "rationale": "C'était l'expression utilisée par Connally pour se moquer de lui."
+        },
+        {
+          "text": "Le Maître du Sénat",
+          "isCorrect": false,
+          "rationale": "C'est le titre qu'il a acquis plus tard, une fois son pouvoir solidement établi."
+        }
+      ],
+      "hint": "C'est un terme météorologique exagéré utilisé avec humour."
+    }
+  ]
+}
